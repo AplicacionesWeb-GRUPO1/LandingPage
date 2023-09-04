@@ -4,15 +4,55 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FastService</title>
-    <!-- Styles -->
-    <link rel="stylesheet" href="assets/styles/style.css">
     <!-- Tailwind -->
     <script src="https://cdn.tailwindcss.com"></script>
-
+    <!-- Styles -->
+    <link rel="stylesheet" href="/public/assets/styles/style.css">
+    <!--font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <!--usar recursos de boxicons-->
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <!--usar recursos de remixicons-->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css" rel="stylesheet">
 </head>
 <body>
-    <nav class="not-sr-only bg-black">
+    <!--barra nav -->
+    <header class="header">
+        <a href="#" class="logo"><img src="/public/assets/images/logo-no-background.png" alt="Logo FastService"></a>
+
+        <ul class="navbar">
+            <li><a href="#about" class="btn-nav">Acerca</a></li>
+            <li><a href="#services" class="btn-nav">Nuestros servicios</a></li>
+            <li><a href="#reviews" class="btn-nav">Reseñas</a></li>
+            <li><a href="#contact" class="btn-nav">Contacto</a></li>
+        </ul>
+
+        <div class="main">
+            <a href="login.html" class="usser"><i class="ri-user-fill"></i>Iniciar Sesión</a>
+            <a href="register.html">Registrarse</a>
+            <div class="bx bx-menu" id="menu-icon"></div>
+        </div>
+    </header>
+
+    <!--<nav class="not-sr-only bg-black">
         <p class="text-white">FastService</p>
-    </nav>
+    </nav>!-->
+    <!--home seccion-->
+    <section class="home" id="home">
+        
+    </section>
+    <section class="our-services" id="services">
+        
+    </section>
+    <section class="reviews" id="reviews">
+        
+    </section>
+    <section class="contact" id="contact">
+        
+    </section>
+    <!----Java script-->
+    <script type="text/javascript" src="/public/assets/scripts/index.js"></script>
 </body>
 </html>
