@@ -20,7 +20,7 @@ body{
 
 body{
     min-height: 100vh;
-    background-color: var(--primary-color);
+    background-color: #ffffff;
     color: var(--text-primary-color);
 }
 
@@ -110,7 +110,7 @@ header{
 
 #menu-icon{
     font-size: 35px;
-    color: var(--text-primary-color);
+    color: var(--secondary-color);
     cursor: pointer;
     z-index: 10001;
     display: none;
@@ -124,7 +124,93 @@ header{
 
 /**seccion**/
 section{
-    padding: 120px 5%;
+    padding: 80px 5%;
+}
+
+.home {
+    display: flex; /* Use Flexbox to align content horizontally */
+    align-items: center; /* Vertically center the content */
+}
+
+.home::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 50vw 90vw; /* Ajusta el tamaño de la línea diagonal */
+    border-color: transparent transparent transparent var(--primary-color); /* Color del lado derecho */
+    z-index: -5;
+}
+
+.left-column h3{
+    margin-top:10px;
+    width: 608px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 77.5px; 
+}
+
+.left-column p{
+    margin-bottom:10px;
+    width: 448px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.8px;
+}
+
+
+.read-more-button {
+    background-color: #E53E3E; 
+    color: #fff; 
+    padding: 10px 20px; 
+    border: none;
+    border-radius: 4px; 
+    margin-right: 10px; 
+    cursor: pointer; 
+    transition: background-color 0.3s, box-shadow 0.3s; 
+}
+  
+
+.download-button {
+    background-color: transparent; 
+    color: #fff; 
+    padding: 10px 20px; 
+    border: 2px solid #fff; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    transition: background-color 0.3s, box-shadow 0.3s; 
+}
+  
+.read-more-button:hover,.download-button:hover {
+    background-color: #D32F2F; 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3); 
+}
+
+.left-column {
+    flex: 1;
+    margin-left: 20px; 
+    padding: 10px; 
+}
+  
+.right-column {
+    flex: 1; 
+    text-align: center; 
+}
+  
+
+.right-column img {
+    margin-top: 50px;
+    max-width: 100%; 
 }
 
 
