@@ -4,15 +4,152 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FastService</title>
-    <!-- Styles -->
-    <link rel="stylesheet" href="assets/styles/style.css">
     <!-- Tailwind -->
     <script src="https://cdn.tailwindcss.com"></script>
-
+    <!-- Styles -->
+    <link rel="stylesheet" href="/public/assets/styles/style.css">
+    <!--font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <!--usar recursos de boxicons-->
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <!--usar recursos de remixicons-->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css" rel="stylesheet">
 </head>
 <body>
-    <nav class="not-sr-only bg-black">
-        <p class="text-white">FastService</p>
-    </nav>
+    <!--barra nav -->
+    <header class="header">
+        <a href="#" class="logo"><img src="/public/assets/images/logo-no-background.png" alt="Logo FastService"></a>
+
+        <ul class="navbar">
+            <li><a href="#about" class="btn-nav">Acerca</a></li>
+            <li><a href="#services" class="btn-nav">Nuestros servicios</a></li>
+            <li><a href="#reviews" class="btn-nav">Reseñas</a></li>
+            <li><a href="#contact" class="btn-nav">Contacto</a></li>
+        </ul>
+
+        <div class="main">
+            <a href="login.html" class="usser"><i class="ri-user-fill"></i>Iniciar Sesión</a>
+            <a href="register.html">Registrarse</a>
+            <div class="bx bx-menu" id="menu-icon"></div>
+        </div>
+    </header>
+
+    <!--home seccion-->
+    <section class="home" id="home">
+        <div class="left-column">
+            <h3>FastService</h3>
+            <p>Rapidez en Acción, Calidad en Servicio</p> 
+            <button class="read-more-button">Leer Más</button>
+            <button class="download-button">Descargar App</button>
+        </div>
+        <div class="right-column">
+            <img src="/public/assets/images/tech.jpg" alt="man">
+        </div>
+    </section>
+
+    <section class="bg-[#4B4AEF] md:py-2" id = "services">
+        <div>
+            <h2 class="text-5xl text-center p-10 text-white">Nuestros Servicios</h2>
+            <div class="flex justify-center mb-20">
+                <span class="w-1/3 h-1 bg-[#e11661]"></span>
+                <span class="w-1/3 h-1 bg-[#fff]"></span>
+            </div>
+            
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 md:gap-14 text-white mx-14 text-center">
+            <div class="">
+                <img src="public/assets/images/img-cliente.png" alt="imagen de un cliente" class="m-auto">
+                <div>
+                    <h3 class="text-2xl text-center py-8 text-white font-bold">Clientes</h3>
+                    <p class="">
+                        ¿Necesitas ayuda para solucionar problemas técnicos en casa? Encuentra expertos calificados que te
+                        brindarán soluciones eficientes y confiables en tiempo récord. Con FastService, tus necesidades
+                        están en buenas manos.
+                    </p>
+                    <button class="bg-[#E53E3E] rounded-lg py-3 px-14 my-10">
+                        <a href="#">Explorar</a>
+                    </button>
+                </div>               
+            </div>
+            <div class="">
+                <img src="public/assets/images/img-experto.png" alt="imagen de un experto" class="m-auto">
+                <div>
+                    <h3 class="text-2xl text-center py-8 text-white font-bold">Expertos</h3>
+                    <p class="">
+                        ¿Eres un profesional técnico buscando expandir tu alcance y conectar con nuevos clientes? Únete a
+                        FastService y lleva tus servicios directamente a quienes los necesitan. Conviértete en la solución
+                        que los clientes están buscando.
+                    </p>
+                    <button class="bg-[#E53E3E] rounded-lg py-3 px-14 my-10">
+                        <a href="#">Explorar</a>
+                    </button>
+                </div>               
+            </div>
+            <div class="">
+                <img src="public/assets/images/img-provedor.png" alt="imagen de un Provedor" class="m-auto">
+                <div>
+                    <h3 class="text-2xl text-center py-8 text-white font-bold">Proveedores</h3>
+                    <p class="">
+                        ¿Eres un proveedor de herramientas, materiales u otros recursos esenciales para técnicos y expertos? Con FastService, puedes llegar a una audiencia dedicada y ofrecer tus productos a profesionales en busca de lo mejor.
+                    </p>
+                    <button class="bg-[#E53E3E] rounded-lg py-3 px-14 my-10">
+                        <a href="#">Explorar</a>
+                    </button>
+                </div>           
+            </div>
+        </div>
+    </section>
+    <section class="reviews" id="reviews">
+        
+    </section>
+    <section class="contact" id="contact">
+        
+    </section>
+    <footer class="footer">
+        <div class="footer-section">
+          <img src="/public/assets/images/logo.rectangulo.png" alt="Logo">
+        </div>
+        <div class="footer-section">
+          <div class="footer-column">
+            <ul>
+              <li>Servicio</li>
+              <li>Domain</li>
+              <li>Share Hosting</li>
+              <li>Private Hosting</li>
+            </ul>
+          </div>
+          <div class="footer-column">
+            <ul>
+              <li>Empresa</li>
+              <li>Acerca de</li>
+              <li>Carrea</li>
+              <li>Contactanos</li>
+            </ul>
+          </div>
+          <div class="footer-column">
+            <ul>
+              <li>Hosting</li>
+              <li>fast_service@email.com</li>
+              <li>fservice@wordpress.com</li>
+            </ul>
+          </div>
+          <div class="footer-column">
+            <ul>
+              <li>Ayuda</li>
+              <li>FAQ</li>
+              <li>Soporte</li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-section">
+          <img src="/public/assets/images/qr.png" alt="qr">
+        </div>
+      </footer>
+      
+    <!----Java script-->
+    <script type="text/javascript" src="/public/assets/scripts/index.js"></script>
 </body>
 </html>
