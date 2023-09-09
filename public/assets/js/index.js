@@ -44,3 +44,19 @@ window.addEventListener('scroll', function() {
     }
 });
 
+
+//login desde el landing page
+function login(){
+    var user, password;
+
+    user = document.getElementById("user").value;
+    password = document.getElementById("password").value;
+
+    if(user == "reparador5000" && password == "Hola1234#"){
+        alert("Hola de nuevo! :) " + user);
+        window.open("index.html"); 
+    }
+    else{
+        alert("Hay un error en su cuenta, intente de nuevo :/")
+    }
+}
