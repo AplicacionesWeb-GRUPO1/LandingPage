@@ -41,8 +41,6 @@ Capítulo I: Introducción
 
 1.1.2. Perfiles de integrantes del equipo
 
-5/34
-
 1.2. Solution Profile
 
 1.2.1 Antecedentes y problemática
@@ -356,25 +354,25 @@ la vida de las personas en su día a día.
 1.2.2.1. Lean UX Problem Statements.
 
 -   Los trabajadores técnicos en Perú enfrentan dificultades para
-    > encontrar clientes confiables y establecer conexiones laborales
-    > efectivas. La falta de una plataforma centralizada limita sus
-    > oportunidades de trabajo y crecimiento en el mercado.
+     encontrar clientes confiables y establecer conexiones laborales
+     efectivas. La falta de una plataforma centralizada limita sus
+    oportunidades de trabajo y crecimiento en el mercado.
 
 -   Esta comunidad busca soluciones confiables para problemas de
-    > reparación y oportunidades laborales, enfrentando desafíos tanto
-    > en la búsqueda de servicios confiables como en la disponibilidad
-    > de trabajo para técnicos.
+     reparación y oportunidades laborales, enfrentando desafíos tanto
+     en la búsqueda de servicios confiables como en la disponibilidad
+     de trabajo para técnicos.
 
 -   La falta de una plataforma que conecte de manera efectiva a
-    > trabajadores técnicos y clientes en Perú limita la colaboración y
-    > el éxito mutuo. Los beneficios de la interacción entre proveedores
-    > y clientes no están siendo aprovechados debido a las dificultades
-    > en la búsqueda y la falta de confianza en las conexiones.
+     trabajadores técnicos y clientes en Perú limita la colaboración y
+     el éxito mutuo. Los beneficios de la interacción entre proveedores
+     y clientes no están siendo aprovechados debido a las dificultades
+     en la búsqueda y la falta de confianza en las conexiones.
 
 -   La falta de opciones convenientes y accesibles para encontrar
-    > soluciones rápidas a problemas de reparación y acceso a
-    > herramientas necesarias afecta negativamente tanto a los clientes
-    > que buscan respuestas inmediatas
+     soluciones rápidas a problemas de reparación y acceso a
+     herramientas necesarias afecta negativamente tanto a los clientes
+     que buscan respuestas inmediatas
 
 1.2.2.2. Lean UX Assumptions.
 
@@ -490,63 +488,63 @@ usuarios y profesionales.
 **Users outcomes**
 
 -   Acceso a profesionales confiables para realizar reparaciones en el
-    > hogar.
+     hogar.
 
 -   Oportunidades laborales y flujo constante de trabajo para los
-    > profesionales.
+     profesionales.
 
 -   Gestión eficiente de trabajos para los profesionales, que pueden
-    > incluir: historial con información de trabajos anteriores,
-    > calendario de citas, ver el estatus del trabajo (en proceso,
-    > terminado, programado), etc.
+     incluir: historial con información de trabajos anteriores,
+     calendario de citas, ver el estatus del trabajo (en proceso,
+     terminado, programado), etc.
 
 -   Plataforma intuitiva y fácil de usar para todas las partes
-    > involucradas.
+     involucradas.
 
 **Business outcomes**
 
 -   Establecer una plataforma confiable y eficiente que mejore la
-    > experiencia de todos los usuarios.
+     experiencia de todos los usuarios.
 
 -   Aumentar el número de personas que solicitan servicios de reparación
-    > en el hogar al proporcionar una solución conveniente y confiable.
+     en el hogar al proporcionar una solución conveniente y confiable.
 
 -   Generar oportunidades laborales para profesionales del sector de
-    > reparaciones en el hogar, fomentando su crecimiento y desarrollo
-    > en el mercado.
+     reparaciones en el hogar, fomentando su crecimiento y desarrollo
+     en el mercado.
 
 **Features**
 
 > **¿Qué características son importantes?**
 
 -   Sistema de búsqueda y conexión entre usuarios que necesitan
-    > reparaciones y profesionales adecuados.
+     reparaciones y profesionales adecuados.
 
 -   Herramientas de comunicación como chat y llamadas para facilitar la
-    > interacción durante el proceso de reparación.
+     interacción durante el proceso de reparación.
 
 -   Funcionalidad para que los proveedores de servicios adquieran
-    > herramientas y suministros a través de la plataforma.
+     herramientas y suministros a través de la plataforma.
 
 -   Aparato de gestión eficiente de trabajos para los profesionales.
 
 -   Posibilidad de compartir informes y detalles de las reparaciones al
-    > finalizar los trabajos.
+     finalizar los trabajos.
 
 -   Ofrecer precios reducidos y cupones de descuento para los usuarios
-    > según sus necesidades.
+     según sus necesidades.
 
 > **¿Cómo debería verse y comportarse nuestro servicio?**
 >
-> ● La interfaz de usuario (UI) debe ser moderna, fácil de entender y en
-> línea con la temática de reparaciones en el hogar.
->
-> ● La experiencia de usuario (UX) debe priorizar la navegación sencilla
-> y la realización fluida de acciones como buscar profesionales,
-> reservar citas y realizar pagos.
->
-> ● El servicio debe estar disponible las 24 horas del día, los 7 días
-> de la semana para brindar comodidad a los usuarios y profesionales.
+ ● La interfaz de usuario (UI) debe ser moderna, fácil de entender y en
+ línea con la temática de reparaciones en el hogar.
+
+ ● La experiencia de usuario (UX) debe priorizar la navegación sencilla
+ y la realización fluida de acciones como buscar profesionales,
+ reservar citas y realizar pagos.
+
+ ● El servicio debe estar disponible las 24 horas del día, los 7 días
+ de la semana para brindar comodidad a los usuarios y profesionales.
 
 1.2.2.3. Lean UX Hypothesis Statements.
 
@@ -598,7 +596,7 @@ paso del tiempo y no tengamos caídas de usuarios.
 1.  Técnicos:
 
 -   Personas que ofrecen sus servicios técnicos entre la edad de 18-40
-    > años de todo el Perú.
+     años de todo el Perú.
 
 -   Nivel de educación medio o superior.
 
@@ -611,7 +609,7 @@ paso del tiempo y no tengamos caídas de usuarios.
 2.  Clientes:
 
 -   Personas que requieran de alguien para solucionar problemas técnicos
-    > o requieran de alguien que pueda realizar un trabajo.
+     o requieran de alguien que pueda realizar un trabajo.
 
 -   Edad de 18 - 60 años.
 
@@ -624,12 +622,12 @@ paso del tiempo y no tengamos caídas de usuarios.
 3.  Empresas:
 
 -   Empresas que quieran incrementar sus ventas de suministros
-    > industriales.
+     industriales.
 
 -   Sedes en Perú.
 
 -   Capacidad de ofrecer productos y servicios de calidad a precios
-    > competitivos.
+     competitivos.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -667,16 +665,16 @@ Las estrategias frente a nuestros competidores se constituyen
 principalmente en la diferenciación. Las cuales serán las siguientes:
 
 -   La plataforma se distinguirá por su compromiso con la calidad y la
-    > confiabilidad. Al seleccionar rigurosamente técnicos y
-    > profesionales altamente calificados, se construirá una sólida base
-    > de confianza entre los usuarios, generando una ventaja competitiva
-    > en la elección de servicios.
+     confiabilidad. Al seleccionar rigurosamente técnicos y
+     profesionales altamente calificados, se construirá una sólida base
+     de confianza entre los usuarios, generando una ventaja competitiva
+     en la elección de servicios.
 
 -   La plataforma ofrecerá un sistema de tarifas competitivas para los
-    > técnicos y opciones de suscripción premium para los usuarios.
+     técnicos y opciones de suscripción premium para los usuarios.
 
 -   La diferenciación se enfocará en la conexión con técnicos altamente
-    > calificados en áreas especializadas como electrónica y mecánica.
+     calificados en áreas especializadas como electrónica y mecánica.
 
 2.2. Entrevistas.
 
@@ -685,65 +683,65 @@ principalmente en la diferenciación. Las cuales serán las siguientes:
 **Preguntas para Técnicos:**
 
 1.  ¿Qué tipo de servicios técnicos ofreces y cuál es tu área de
-    > especialización?
+     especialización?
 
 2.  ¿Qué desafíos has enfrentado al buscar oportunidades laborales y
-    > promocionar tus servicios como técnico?
+     promocionar tus servicios como técnico?
 
 3.  ¿Qué te motiva a utilizar plataformas en línea para conectarte con
-    > clientes y ofrecer tus servicios?
+     clientes y ofrecer tus servicios?
 
 4.  ¿Qué características o herramientas consideradas más valiosas al
-    > buscar y aceptar trabajos a través de una plataforma en línea?
+     buscar y aceptar trabajos a través de una plataforma en línea?
 
 5.  En tu opinión, ¿cuáles son las cualidades más importantes que buscan
-    > los clientes al elegir a un técnico para sus necesidades?
+     los clientes al elegir a un técnico para sus necesidades?
 
 6.  ¿Cómo crees que una plataforma que conecte a técnicos con clientes
-    > podría mejorar tu visibilidad y oportunidades laborales?
+     podría mejorar tu visibilidad y oportunidades laborales?
 
 7.  ¿Qué factores influyen en tu decisión de establecer una relación de
-    > trabajo a largo plazo con un cliente?
+     trabajo a largo plazo con un cliente?
 
 8.  ¿Qué tipo de información y detalles te gustaría ver en los perfiles
-    > de los clientes y en las solicitudes de trabajo?
+     de los clientes y en las solicitudes de trabajo?
 
 **Preguntas para el clientes:**
 
 1.  ¿Con qué frecuencia ha necesitado servicios de reparación en los
-    > últimos 12 meses?
+     últimos 12 meses?
 
 2.  Cuando busca un técnico para un servicio de reparación, ¿en qué tipo
-    > de plataformas o fuentes confía para encontrarlos?
+     de plataformas o fuentes confía para encontrarlos?
 
 3.  ¿Prefiere contratar a técnicos independientes o a través de empresas
-    > de reparación establecidas? ¿Por qué?
+     de reparación establecidas? ¿Por qué?
 
 4.  Cuéntenos sobre una experiencia positiva que haya tenido al
-    > contratar a un técnico para un servicio de reparación. ¿Qué
-    > aspectos la hicieron destacar?
+    contratar a un técnico para un servicio de reparación. ¿Qué
+     aspectos la hicieron destacar?
 
 5.  ¿Ha tenido alguna experiencia negativa o desafiante al contratar a
-    > un técnico? ¿Qué problemas enfrentó?
+     un técnico? ¿Qué problemas enfrentó?
 
 6.  ¿Qué factores son más importantes para usted al evaluar la
-    > confiabilidad de un técnico de reparación? (Ejemplos: reseñas de
-    > otros clientes, certificaciones, garantías, etc.)
+     confiabilidad de un técnico de reparación? (Ejemplos: reseñas de
+     otros clientes, certificaciones, garantías, etc.)
 
 7.  ¿Cómo suele tomar una decisión final al elegir un técnico de
-    > reparación entre varias opciones?
+     reparación entre varias opciones?
 
 8.  Imaginemos que usa La FastService para encontrar un técnico. ¿Qué
-    > características le gustaría ver en la plataforma que le ayudarían
-    > a tomar una decisión informada?
+     características le gustaría ver en la plataforma que le ayudarían
+     a tomar una decisión informada?
 
 9.  Si ha utilizado plataformas similares en el pasado, ¿qué aspectos le
-    > gustaría que La FastService mejore en comparación con esas
-    > experiencias?
+     gustaría que La FastService mejore en comparación con esas
+     experiencias?
 
 10. ¿Estaría dispuesto/a a pagar un poco más por un servicio de
-    > reparación si estuviera garantizado por La FastService en términos
-    > de calidad y satisfacción? ¿Por qué?
+     reparación si estuviera garantizado por La FastService en términos
+     de calidad y satisfacción? ¿Por qué?
 
 **Pregunta para proveedores:**
 
@@ -758,10 +756,10 @@ principalmente en la diferenciación. Las cuales serán las siguientes:
 5.  ¿Tienen una amplia variedad herramientas?
 
 6.  ¿Ofrecen servicios adicionales como envío, instalación o
-    > capacitación?
+     capacitación?
 
 7.  ¿Estaría dispuesto a asociarse a un aplicativo que le pueda
-    > facilitar al momento de hacer marketing?
+     facilitar al momento de hacer marketing?
 
 2.2.2. Registro de entrevistas
 
@@ -776,8 +774,7 @@ principalmente en la diferenciación. Las cuales serán las siguientes:
 > Link:
 > [[https://youtu.be/OS_M_qKR_0w]{.underline}](https://youtu.be/OS_M_qKR_0w)
 >
-> ![](.//public/assets/images/md/image63.png){width="6.267716535433071in"
-> height="1.8888888888888888in"}
+> ![](.//public/assets/images/md/image63.png)
 >
 > Renzo Meza de 25 años que es técnico de computación e informática nos
 > comenta que el mercado laboral de su parte como técnico es muy
@@ -794,8 +791,7 @@ principalmente en la diferenciación. Las cuales serán las siguientes:
 >
 > **Entrevistado:** Rafael Trujillo
 >
-> ![](.//public/assets/images/md/image83.png){width="5.192708880139983in"
-> height="1.7596555118110235in"}
+> ![](.//public/assets/images/md/image83.png)
 >
 > En cuanto a su trabajo como técnico en servicios generales, Rafael
 > Trujillo mencionó que ofrece una variedad de servicios que incluyen
@@ -816,8 +812,7 @@ principalmente en la diferenciación. Las cuales serán las siguientes:
 >
 > **Entrevistado:** Claudia Montesinos
 >
-> ![](.//public/assets/images/md/image87.png){width="5.265625546806649in"
-> height="2.7762346894138235in"}
+> ![](.//public/assets/images/md/image87.png)
 >
 > Claudia Montesinos, una experta en pintura en casa de 25 años, busca
 > una plataforma que le brinde herramientas para una comunicación
@@ -839,8 +834,7 @@ Entrevistas cliente:
 >
 > **Entrevistado:** Andrea Jarama
 >
-> ![](.//public/assets/images/md/image105.png){width="5.155561023622047in"
-> height="2.844822834645669in"}
+> ![](.//public/assets/images/md/image105.png)
 >
 > ANÁLISIS: En la entrevista, el entrevistado comparte sus experiencias
 > y preferencias en servicios de reparación. Ha necesitado reparaciones
@@ -868,8 +862,7 @@ Entrevistas cliente:
 >
 > **Entrevistado:** Nayeli Chavez
 >
-> ![](.//public/assets/images/md/image71.jpg){width="5.228448162729658in"
-> height="2.785813648293963in"}
+> ![](.//public/assets/images/md/image71.jpg)
 >
 > Nayeli Chávez, una diseñadora gráfica de 24 años que trabaja desde
 > casa, está en búsqueda de una plataforma que pueda ofrecer soluciones
@@ -930,8 +923,7 @@ Entrevistas empresario:
 >
 > **Entrevistado:** Eduardo Jarama
 >
-> ![](.//public/assets/images/md/image52.png){width="5.3057152230971125in"
-> height="3.0053969816272965in"}
+> ![](.//public/assets/images/md/image52.png)
 >
 > **ANÁLISIS:** La entrevista a Eduardo Jarama, un proveedor de
 > herramientas, revela una estrategia de negocios sólida con un enfoque
@@ -993,20 +985,17 @@ Entrevistas empresario:
 > app de intermediario para crecer en ventas, ya que le permitiría tener
 > más clientes.
 >
-> ![](.//public/assets/images/md/image12.png){width="6.267716535433071in"
-> height="1.8472222222222223in"}
+> ![](.//public/assets/images/md/image12.png)
 
 2.3. Needfinding.
 
 2.3.1. User Personas. (3 user persona x segmento)
 
-![](.//public/assets/images/md/image20.png){width="6.267716535433071in"
-height="4.861111111111111in"}
+![](.//public/assets/images/md/image20.png)
 
-![](.//public/assets/images/md/image81.png){width="6.267716535433071in" height="4.75in"}
+![](.//public/assets/images/md/image81.png)
 
-![](.//public/assets/images/md/image64.png){width="6.267716535433071in"
-height="4.583333333333333in"}
+![](.//public/assets/images/md/image64.png)
 
 2.3.2. User Task Matrix.
 
@@ -1024,46 +1013,39 @@ height="4.583333333333333in"}
 <tr><td colspan="1" valign="top">Vender suministros</td><td colspan="1" valign="top">Media</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td></tr>
 <tr><td colspan="1" valign="top">Publicar servicios</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td></tr>
 </table>
-##  
+ 
 
 2.3.3. User Journey Mapping. (3 user persona)
 
 Cliente
 
-![](.//public/assets/images/md/image31.png){width="6.267716535433071in"
-height="5.958333333333333in"}
+![](.//public/assets/images/md/image31.png)
 
 Técnico
 
-![](.//public/assets/images/md/image73.png){width="6.267716535433071in"
-height="5.597222222222222in"}
+![](.//public/assets/images/md/image73.png)
 
 Proveedor
 
-![](.//public/assets/images/md/image62.png){width="6.267716535433071in"
-height="5.861111111111111in"}
+![](.//public/assets/images/md/image62.png)
 
 2.3.4. Empathy Mapping.
 
 CLIENTES :
 
-![](.//public/assets/images/md/image14.png){width="6.267716535433071in"
-height="9.069444444444445in"}
-
+![](.//public/assets/images/md/image14.png)
 TÉCNICOS:
 
-![](.//public/assets/images/md/image74.png){width="6.267716535433071in"
-height="8.527777777777779in"}
+![](.//public/assets/images/md/image74.png)
 
 PROVEEDORES:
 
-![](.//public/assets/images/md/image42.png){width="6.267716535433071in"
-height="8.166666666666666in"}
+![](.//public/assets/images/md/image42.png)
 
 2.3.5. As-is Scenario Mapping.
 
 -   Miroh para el As-Is/To-Be:
-    > [[https://miro.com/welcomeonboard/cGxManlxcWpreWYzc0dXdGZ3VVBYYkpwdHFXT01VTDZuVm5YMWN3VUV6QkdpU2VyV0MySlBmaTl1MUJBVkd0MnwzMDc0NDU3MzY0MDA4NTczMTI2fDI=?share_link_id=105883254362]{.underline}](https://miro.com/welcomeonboard/cGxManlxcWpreWYzc0dXdGZ3VVBYYkpwdHFXT01VTDZuVm5YMWN3VUV6QkdpU2VyV0MySlBmaTl1MUJBVkd0MnwzMDc0NDU3MzY0MDA4NTczMTI2fDI=?share_link_id=105883254362)
+     [[https://miro.com/welcomeonboard/cGxManlxcWpreWYzc0dXdGZ3VVBYYkpwdHFXT01VTDZuVm5YMWN3VUV6QkdpU2VyV0MySlBmaTl1MUJBVkd0MnwzMDc0NDU3MzY0MDA4NTczMTI2fDI=?share_link_id=105883254362]{.underline}](https://miro.com/welcomeonboard/cGxManlxcWpreWYzc0dXdGZ3VVBYYkpwdHFXT01VTDZuVm5YMWN3VUV6QkdpU2VyV0MySlBmaTl1MUJBVkd0MnwzMDc0NDU3MzY0MDA4NTczMTI2fDI=?share_link_id=105883254362)
 
 # Capítulo III: Requirements Specification
 
@@ -1122,16 +1104,14 @@ height="8.166666666666666in"}
 
 3.3. Impact Mapping.
 
-![](.//public/assets/images/md/image61.png){width="6.267716535433071in"
-height="4.027777777777778in"}
+![](.//public/assets/images/md/image61.png)
 
-![](.//public/assets/images/md/image66.png){width="6.267716535433071in"
-height="4.083333333333333in"}
+![](.//public/assets/images/md/image66.png)
 
-![](.//public/assets/images/md/image46.jpg){width="6.267716535433071in" height="4.125in"}
+![](.//public/assets/images/md/image46.jpg)
 
 -   Impact mapping:
-    > [[https://miro.com/welcomeonboard/Q3hOWUs1Mm9WZExaTzF6a0hIeDFsSkx5RFpPOEZDODN6SGhYT3J6eUh4VllCQ085N2tkb0hmZVc4NDdndkFiU3wzMDc0NDU3MzY0MjAwNzk1MTkxfDI=?share_link_id=362265866732]{.underline}](https://miro.com/welcomeonboard/Q3hOWUs1Mm9WZExaTzF6a0hIeDFsSkx5RFpPOEZDODN6SGhYT3J6eUh4VllCQ085N2tkb0hmZVc4NDdndkFiU3wzMDc0NDU3MzY0MjAwNzk1MTkxfDI=?share_link_id=362265866732)
+     [[https://miro.com/welcomeonboard/Q3hOWUs1Mm9WZExaTzF6a0hIeDFsSkx5RFpPOEZDODN6SGhYT3J6eUh4VllCQ085N2tkb0hmZVc4NDdndkFiU3wzMDc0NDU3MzY0MjAwNzk1MTkxfDI=?share_link_id=362265866732]{.underline}](https://miro.com/welcomeonboard/Q3hOWUs1Mm9WZExaTzF6a0hIeDFsSkx5RFpPOEZDODN6SGhYT3J6eUh4VllCQ085N2tkb0hmZVc4NDdndkFiU3wzMDc0NDU3MzY0MjAwNzk1MTkxfDI=?share_link_id=362265866732)
 
 3.4. Product Backlog.\\
 
@@ -1175,11 +1155,9 @@ height="4.083333333333333in"}
 > prominente encima de la llave inglesa, asegurando que el nombre de la
 > marca sea claramente legible y memorable.
 >
-> ![](.//public/assets/images/md/image50.png){width="2.045317147856518in"
-> height="1.8333333333333333in"}
+> ![](.//public/assets/images/md/image50.png)
 >
-> ![](.//public/assets/images/md/image36.png){width="2.2515583989501313in"
-> height="2.1979166666666665in"}
+> ![](.//public/assets/images/md/image36.png)
 >
 > **Eslogan:**
 >
@@ -1199,8 +1177,7 @@ height="4.083333333333333in"}
 > hasta las interfaces de usuario, sea fácilmente legible y tenga una
 > apariencia moderna y uniforme.
 >
-> ![](.//public/assets/images/md/image98.png){width="6.267716535433071in"
-> height="4.819444444444445in"}
+> ![](.//public/assets/images/md/image98.png)
 >
 > **Colors**
 >
@@ -1215,8 +1192,7 @@ height="4.083333333333333in"}
 > blanco, que se utiliza de manera equilibrada, lo que proporciona
 > claridad y contraste.
 >
-> ![](.//public/assets/images/md/image47.png){width="3.8645833333333335in"
-> height="1.9578149606299213in"}
+> ![](.//public/assets/images/md/image47.png)
 
 **Spacing**
 
@@ -1232,23 +1208,17 @@ El spacing mantiene:
 
 > 4.1.2. Web Style Guidelines
 >
-> ![](.//public/assets/images/md/image13.png){width="6.267716535433071in"
-> height="3.4583333333333335in"}
+> ![](.//public/assets/images/md/image13.png)
 >
-> ![](.//public/assets/images/md/image27.png){width="6.267716535433071in"
-> height="4.902777777777778in"}
+> ![](.//public/assets/images/md/image27.png)
 >
-> ![](.//public/assets/images/md/image23.png){width="6.267716535433071in"
-> height="5.194444444444445in"}
+> ![](.//public/assets/images/md/image23.png)
 >
-> ![](.//public/assets/images/md/image49.png){width="6.267716535433071in"
-> height="2.8055555555555554in"}
+> ![](.//public/assets/images/md/image49.png)
 >
-> ![](.//public/assets/images/md/image45.png){width="6.267716535433071in"
-> height="6.111111111111111in"}
+> ![](.//public/assets/images/md/image45.png)
 >
-> ![](.//public/assets/images/md/image34.png){width="6.267716535433071in"
-> height="2.9027777777777777in"}
+> ![](.//public/assets/images/md/image34.png)
 
 4.2. Information Architecture.
 
@@ -1348,7 +1318,7 @@ El spacing mantiene:
 |Reputación|Permite al usuario buscar expertos según altas calificaciones o comentarios positivos de otros usuarios.|
 |Idioma|Permite al usuario buscar según el idioma que se sientan más cómodos|
 |Palabras Clave|Proporciona un cuadro de búsqueda donde los usuarios pueden ingresar palabras clave específicas relacionadas con el servicio que necesitan|
-### <a name="_yep5qfxefnqf"></a>** 
+### <a name="_yep5qfxefnqf"></a>
 ###  
 
 > 4.2.5. Navigation Systems.
@@ -1383,204 +1353,153 @@ El spacing mantiene:
 > comúnmente utilizada para garantizar que los visitantes se involucren
 > con el contenido de la página de manera eficiente y efectiva.
 >
-> ![](.//public/assets/images/md/image76.png){width="5.90625in"
-> height="2.862396106736658in"}
+> ![](.//public/assets/images/md/image76.png)
 >
-> ![](.//public/assets/images/md/image32.png){width="6.072916666666667in"
-> height="3.0267924321959754in"}
+> ![](.//public/assets/images/md/image32.png)
 >
-> ![](.//public/assets/images/md/image109.png){width="5.989583333333333in"
-> height="4.552083333333333in"}
+> ![](.//public/assets/images/md/image109.png)
 >
-> ![](.//public/assets/images/md/image75.png){width="5.875in" height="3.8371052055993in"}
+> ![](.//public/assets/images/md/image75.png)
 >
-> ![](.//public/assets/images/md/image107.png){width="6.0in" height="1.59375in"}
+> ![](.//public/assets/images/md/image107.png)
 >
-> ![](.//public/assets/images/md/image40.png){width="6.010416666666667in"
-> height="3.3440923009623797in"}
+> ![](.//public/assets/images/md/image40.png)
 >
-> ![](.//public/assets/images/md/image26.png){width="5.8125in"
-> height="1.4472320647419072in"}
+> ![](.//public/assets/images/md/image26.png)
 
 -   url wireframe:
-    > [[https://www.figma.com/proto/QEDratFaKsLLT2fF6kQNHa/FastServicice!-landing-page?type=design&node-id=429-1218&t=2575Bxnt4xGEpnRN-1&scaling=scale-down&page-id=0%3A1&mode=design]{.underline}](https://www.figma.com/proto/QEDratFaKsLLT2fF6kQNHa/FastServicice!-landing-page?type=design&node-id=429-1218&t=2575Bxnt4xGEpnRN-1&scaling=scale-down&page-id=0%3A1&mode=design)
+     [[https://www.figma.com/proto/QEDratFaKsLLT2fF6kQNHa/FastServicice!-landing-page?type=design&node-id=429-1218&t=2575Bxnt4xGEpnRN-1&scaling=scale-down&page-id=0%3A1&mode=design]{.underline}](https://www.figma.com/proto/QEDratFaKsLLT2fF6kQNHa/FastServicice!-landing-page?type=design&node-id=429-1218&t=2575Bxnt4xGEpnRN-1&scaling=scale-down&page-id=0%3A1&mode=design)
 
 > 4.3.2. Landing Page Mock-up.
 >
-> ![](.//public/assets/images/md/image10.png){width="6.267716535433071in"
-> height="3.0555555555555554in"}
+> ![](.//public/assets/images/md/image10.png)
 >
-> ![](.//public/assets/images/md/image54.png){width="6.270833333333333in"
-> height="3.0621576990376203in"}
+> ![](.//public/assets/images/md/image54.png)
 >
-> ![](.//public/assets/images/md/image82.png){width="6.267716535433071in"
-> height="4.736111111111111in"}
+> ![](.//public/assets/images/md/image82.png)
 >
-> ![](.//public/assets/images/md/image67.png){width="6.270833333333333in"
-> height="4.073258967629046in"}
+> ![](.//public/assets/images/md/image67.png)
 >
-> ![](.//public/assets/images/md/image78.png){width="6.270833333333333in" height="5.125in"}
+> ![](.//public/assets/images/md/image78.png)
 >
-> ![](.//public/assets/images/md/image70.png){width="6.267716535433071in"
-> height="1.6111111111111112in"}
+> ![](.//public/assets/images/md/image70.png)
 
 -   url mock-up:
-    > [[https://www.figma.com/proto/QEDratFaKsLLT2fF6kQNHa/FastServicice!-landing-page?type=design&node-id=429-1218&t=2575Bxnt4xGEpnRN-1&scaling=scale-down&page-id=0%3A1&mode=design]{.underline}](https://www.figma.com/proto/QEDratFaKsLLT2fF6kQNHa/FastServicice!-landing-page?type=design&node-id=429-1218&t=2575Bxnt4xGEpnRN-1&scaling=scale-down&page-id=0%3A1&mode=design)
+     [[https://www.figma.com/proto/QEDratFaKsLLT2fF6kQNHa/FastServicice!-landing-page?type=design&node-id=429-1218&t=2575Bxnt4xGEpnRN-1&scaling=scale-down&page-id=0%3A1&mode=design]{.underline}](https://www.figma.com/proto/QEDratFaKsLLT2fF6kQNHa/FastServicice!-landing-page?type=design&node-id=429-1218&t=2575Bxnt4xGEpnRN-1&scaling=scale-down&page-id=0%3A1&mode=design)
 
 4.4. Web Applications UX/UI Design.
 
 > 4.4.1. Web Applications Wireframes.
 >
-> ![](.//public/assets/images/md/image25.png){width="6.267716535433071in"
-> height="4.319444444444445in"}
+> ![](.//public/assets/images/md/image25.png)
 >
 > 4.4.2. Web Applications Wireflow Diagrams.
 >
-> ![](.//public/assets/images/md/image89.png){width="6.267716535433071in"
-> height="4.222222222222222in"}
+> ![](.//public/assets/images/md/image89.png)
 >
 > 4.4.2. Web Applications Mock-ups.
 >
-> ![](.//public/assets/images/md/image100.png){width="6.267716535433071in"
-> height="4.402777777777778in"}
+> ![](.//public/assets/images/md/image100.png)
 >
-> ![](.//public/assets/images/md/image55.png){width="6.267716535433071in"
-> height="4.361111111111111in"}
+> ![](.//public/assets/images/md/image55.png)
 >
-> ![](.//public/assets/images/md/image38.png){width="6.267716535433071in"
-> height="4.361111111111111in"}
+> ![](.//public/assets/images/md/image38.png)
 >
-> ![](.//public/assets/images/md/image29.png){width="6.267716535433071in"
-> height="4.291666666666667in"}
+> ![](.//public/assets/images/md/image29.png)
 >
-> ![](.//public/assets/images/md/image8.png){width="6.267716535433071in"
-> height="4.277777777777778in"}
+> ![](.//public/assets/images/md/image8.png)
 >
-> ![](.//public/assets/images/md/image77.png){width="6.267716535433071in"
-> height="4.347222222222222in"}
+> ![](.//public/assets/images/md/image77.png)
 >
-> ![](.//public/assets/images/md/image17.png){width="6.267716535433071in"
-> height="4.263888888888889in"}
+> ![](.//public/assets/images/md/image17.png)
 >
-> ![](.//public/assets/images/md/image19.png){width="6.267716535433071in"
-> height="4.277777777777778in"}
+> ![](.//public/assets/images/md/image19.png)
 >
-> ![](.//public/assets/images/md/image5.png){width="6.267716535433071in"
-> height="4.361111111111111in"}
+> ![](.//public/assets/images/md/image5.png)
 >
-> ![](.//public/assets/images/md/image68.png){width="6.267716535433071in"
-> height="4.361111111111111in"}
+> ![](.//public/assets/images/md/image68.png)
 >
-> ![](.//public/assets/images/md/image15.png){width="6.267716535433071in"
-> height="4.291666666666667in"}
+> ![](.//public/assets/images/md/image15.png)
 >
-> ![](.//public/assets/images/md/image104.png){width="6.267716535433071in"
-> height="4.347222222222222in"}
+> ![](.//public/assets/images/md/image104.png)
 >
-> ![](.//public/assets/images/md/image85.png){width="6.267716535433071in"
-> height="4.305555555555555in"}
+> ![](.//public/assets/images/md/image85.png)
 >
-> ![](.//public/assets/images/md/image91.png){width="2.4791666666666665in"
-> height="2.7916666666666665in"}
+> ![](.//public/assets/images/md/image91.png)
 >
-> ![](.//public/assets/images/md/image57.png){width="2.4791666666666665in"
-> height="2.7395833333333335in"}
+> ![](.//public/assets/images/md/image57.png)
 >
-> ![](.//public/assets/images/md/image41.png){width="2.4375in"
-> height="2.7604166666666665in"}
+> ![](.//public/assets/images/md/image41.png)
 >
-> ![](.//public/assets/images/md/image65.png){width="3.6666666666666665in"
-> height="2.7708333333333335in"}
+> ![](.//public/assets/images/md/image65.png)
 >
-> ![](.//public/assets/images/md/image16.png){width="4.895833333333333in"
-> height="5.114583333333333in"}
+> ![](.//public/assets/images/md/image16.png)
 >
-> ![](.//public/assets/images/md/image93.png){width="6.267716535433071in"
-> height="4.458333333333333in"}
+> ![](.//public/assets/images/md/image93.png)
 >
-> ![](.//public/assets/images/md/image106.png){width="4.072916666666667in"
-> height="5.854166666666667in"}
+> ![](.//public/assets/images/md/image106.png)
 >
-> ![](.//public/assets/images/md/image79.png){width="5.8125in"
-> height="5.864583333333333in"}
+> ![](.//public/assets/images/md/image79.png)
 >
-> ![](.//public/assets/images/md/image86.png){width="2.5520833333333335in"
-> height="5.5625in"}
+> ![](.//public/assets/images/md/image86.png)
 >
-> ![](.//public/assets/images/md/image43.png){width="5.072916666666667in"
-> height="5.520833333333333in"}
+> ![](.//public/assets/images/md/image43.png)
 >
-> ![](.//public/assets/images/md/image37.png){width="5.0625in" height="5.53125in"}
+> ![](.//public/assets/images/md/image37.png)
 >
-> ![](.//public/assets/images/md/image35.png){width="6.267716535433071in"
-> height="4.430555555555555in"}
+> ![](.//public/assets/images/md/image35.png)
 >
-> ![](.//public/assets/images/md/image94.png){width="4.90625in"
-> height="5.302083333333333in"}
+> ![](.//public/assets/images/md/image94.png)
 >
-> ![](.//public/assets/images/md/image80.png){width="5.010416666666667in"
-> height="5.416666666666667in"}
+> ![](.//public/assets/images/md/image80.png)
 >
-> ![](.//public/assets/images/md/image90.png){width="3.9479166666666665in"
-> height="5.875in"}
+> ![](.//public/assets/images/md/image90.png)
 >
-> ![](.//public/assets/images/md/image28.png){width="6.267716535433071in"
-> height="4.347222222222222in"}
+> ![](.//public/assets/images/md/image28.png)
 >
-> ![](.//public/assets/images/md/image44.png){width="3.7916666666666665in"
-> height="4.0625in"}
+> ![](.//public/assets/images/md/image44.png)
 >
 > 4.4.3. Web Applications User Flow Diagrams.
 >
-> ![](.//public/assets/images/md/image72.png){width="6.267716535433071in"
-> height="4.222222222222222in"}
+> ![](.//public/assets/images/md/image72.png)
 
 4.5. Web Applications Prototyping.
 
 [[https://www.figma.com/proto/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=2-2866&t=1X2RNTAGmyOXYpCe-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2866]{.underline}](https://www.figma.com/proto/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=2-2866&t=1X2RNTAGmyOXYpCe-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2866)
 
-![](.//public/assets/images/md/image59.png){width="2.0061767279090112in"
-height="3.7968755468066493in"}
+![](.//public/assets/images/md/image59.png)
 
 Web:
 [[https://www.figma.com/proto/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=33-2934&t=p2laNPzz7ssN9o7P-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=33%3A2934&show-proto-sidebar=1&mode=design]{.underline}](https://www.figma.com/proto/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=33-2934&t=p2laNPzz7ssN9o7P-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=33%3A2934&show-proto-sidebar=1&mode=design)
 
-![](.//public/assets/images/md/image7.png){width="6.267716535433071in"
-height="3.638888888888889in"}
+![](.//public/assets/images/md/image7.png)
 
 4.6. Domain-Driven Software Architecture.
 
 > 4.6.1. Software Architecture Context Diagram.
 >
-> ![](.//public/assets/images/md/image33.png){width="6.267716535433071in"
-> height="4.861111111111111in"}
+> ![](.//public/assets/images/md/image33.png)
 >
 > 4.6.2. Software Architecture Container Diagrams.
 >
-> ![](.//public/assets/images/md/image95.png){width="6.267716535433071in"
-> height="5.152777777777778in"}
+> ![](.//public/assets/images/md/image95.png)
 >
 > 4.6.3. Software Architecture Components Diagrams.
 >
-> ![](.//public/assets/images/md/image97.png){width="6.267716535433071in"
-> height="5.416666666666667in"}
+> ![](.//public/assets/images/md/image97.png)
 >
-> ![](.//public/assets/images/md/image21.png){width="6.267716535433071in" height="5.625in"}
+> ![](.//public/assets/images/md/image21.png)
 >
-> ![](.//public/assets/images/md/image9.png){width="6.267716535433071in"
-> height="6.486111111111111in"}
+> ![](.//public/assets/images/md/image9.png)
 >
-> ![](.//public/assets/images/md/image18.png){width="6.267716535433071in"
-> height="4.805555555555555in"}
-
+> ![](.//public/assets/images/md/image18.png)
 4.7. Software Object-Oriented
 
 > 4.7.1. Class Diagrams.
 >
-> ![](.//public/assets/images/md/image92.png){width="6.267716535433071in" height="5.0in"}
+> ![](.//public/assets/images/md/image92.png)
 >
-> 4.7.2. Class Dictionary.[\
-> ]{.mark}
+ 4.7.2. Class Dictionary.
 
 |User||
 | :-: | :- |
@@ -1733,8 +1652,7 @@ height="3.638888888888889in"}
 
 > 4.8.1. Database Diagram
 >
-> ![](.//public/assets/images/md/image69.png){width="6.267716535433071in"
-> height="4.083333333333333in"}
+> ![](.//public/assets/images/md/image69.png)
 
 **Capítulo V: Product Implementation, Validation & Deployment.**
 
@@ -1745,13 +1663,13 @@ height="3.638888888888889in"}
 > resultará de utilidad para facilitar que los actuales y futuros
 > desarrolladores puedan colaborar en el ciclo de vida del proyecto.
 >
-> 5.1.1. Software Development Environment Configuration.
->
+ 5.1.1. Software Development Environment Configuration.
+
 > **Project Management**
 
 -   **Discord y WhatsApp
-    > ([[https://discord.com/]{.underline}](https://discord.com/))
-    > ([[https://www.whatsapp.com/?lang=es]{.underline}](https://www.whatsapp.com/?lang=es))**
+     ([[https://discord.com/]{.underline}](https://discord.com/))
+     ([[https://www.whatsapp.com/?lang=es]{.underline}](https://www.whatsapp.com/?lang=es))**
 
 > Discord y WhatsApp han sido los medios principales de comunicación
 > entre los miembros del grupo, donde Discord ha destacado ya que
@@ -1759,7 +1677,7 @@ height="3.638888888888889in"}
 > y de trabajo.
 
 -   **Trello
-    > ([[https://trello.com/es]{.underline}](https://trello.com/es))**
+     ([[https://trello.com/es]{.underline}](https://trello.com/es))**
 
 > Trello ha permitido la organización de tareas a realizar en el
 > proyecto, además del desarrollo del product backlog.
@@ -1767,28 +1685,28 @@ height="3.638888888888889in"}
 > **Product UX/UI Design**
 
 -   **UXPressia
-    > ([[https://uxpressia.com/]{.underline}](https://uxpressia.com/)
-    > )**
+     ([[https://uxpressia.com/]{.underline}](https://uxpressia.com/)
+     )**
 
 > Se utilizó UXPressia para el desarrollo de los diagramas user
 > personas, user journey mapping, empathy mapping e impact map.
 
 -   **Figma
-    > ([[https://www.figma.com/]{.underline}](https://www.figma.com/)
-    > )**
+     ([[https://www.figma.com/]{.underline}](https://www.figma.com/)
+     )**
 
 > Se ha utilizado Figma para el desarrollo de los wireframes y
 > prototipos del landing page y aplicación web, tanto en dispositivos de
 > escritorio como de móvil.
 
 -   **Miro
-    > ([[https://miro.com/es/]{.underline}](https://miro.com/es/))**
+     ([[https://miro.com/es/]{.underline}](https://miro.com/es/))**
 
 > Miro ha sido empleado en el desarrollo de los escenarios mapping y
 > escenario mapping para ambos segmentos objetivos.
 
 -   **Lucidchart
-    > ([[https://lucid.app/]{.underline}](https://lucid.app/))**
+     ([[https://lucid.app/]{.underline}](https://lucid.app/))**
 
 > Lucidchart ha sido empleado en el desarrollo de los diagramas de base
 > de datos y diagrama de clases.
@@ -1796,16 +1714,16 @@ height="3.638888888888889in"}
 > **Software Development**
 
 -   **Visual Studio Code
-    > ([[https://code.visualstudio.com/]{.underline}](https://code.visualstudio.com/)
-    > )**
+     ([[https://code.visualstudio.com/]{.underline}](https://code.visualstudio.com/)
+     )**
 
 > Visual Studio Code es el que emplearemos para el desarrollo del
 > landing page del proyecto.
 
 -   **Github y Git Bash
-    > ([[https://github.com/]{.underline}](https://github.com/) )
-    > ([[https://git-scm.com/downloads]{.underline}](https://git-scm.com/downloads)
-    > )**
+     ([[https://github.com/]{.underline}](https://github.com/) )
+     ([[https://git-scm.com/downloads]{.underline}](https://git-scm.com/downloads)
+     )**
 
 > Github y Git bash nos permitirán el control de versiones del código y
 > el desarrollo colaborativo del proyecto.
@@ -1816,16 +1734,16 @@ height="3.638888888888889in"}
 > un repositorio para el landing page.
 
 -   Organización:
-    > [[https://github.com/AplicacionesWeb-GRUPO1]{.underline}](https://github.com/AplicacionesWeb-GRUPO1)
+     [[https://github.com/AplicacionesWeb-GRUPO1]{.underline}](https://github.com/AplicacionesWeb-GRUPO1)
 
 -   Repositorio de Acceptance Tests:
-    > [[https://github.com/AplicacionesWeb-GRUPO1/features_FastService]{.underline}](https://github.com/AplicacionesWeb-GRUPO1/features_FastService)
+     [[https://github.com/AplicacionesWeb-GRUPO1/features_FastService]{.underline}](https://github.com/AplicacionesWeb-GRUPO1/features_FastService)
 
 -   Repositorio Landing Page:
-    > [[https://github.com/AplicacionesWeb-GRUPO1/aplicaciones_web]{.underline}](https://github.com/AplicacionesWeb-GRUPO1/aplicaciones_web)
+     [[https://github.com/AplicacionesWeb-GRUPO1/aplicaciones_web]{.underline}](https://github.com/AplicacionesWeb-GRUPO1/aplicaciones_web)
 
 -   Despliegue del Landing Page en
-    > Netlify:[[https://main\--darling-stroopwafel-93011e.netlify.app]{.underline}](https://main--darling-stroopwafel-93011e.netlify.app)
+     Netlify:[[https://main\--darling-stroopwafel-93011e.netlify.app]{.underline}](https://main--darling-stroopwafel-93011e.netlify.app)
 
 > Las ramas principales en el Gitflow serán las ramas main y developer,
 > donde developer será la principal rama de trabajo, mientras que la
@@ -1842,35 +1760,35 @@ height="3.638888888888889in"}
 > ) según la estructura:
 >
 > \<type\>\[optional scope\]: \<description\>
->
-> ● Type: representa el tipo de commit, sea tipo feature (feat), fix
-> (fix) o docs (docs).
->
-> ● Optional scope: es opcional y representa el alcance del commit.
->
-> ● Description: descripción del commit y acciones realizadas.
->
-> 5.1.3. Source Code Style Guide & Conventions.
->
+
+ ● Type: representa el tipo de commit, sea tipo feature (feat), fix
+ (fix) o docs (docs).
+
+ ● Optional scope: es opcional y representa el alcance del commit.
+
+ ● Description: descripción del commit y acciones realizadas.
+
+ 5.1.3. Source Code Style Guide & Conventions.
+
 > **HTML Style Guide and Coding Conventions**
 
 -   **DOCTYPE Declaration**: Incluye una declaración DOCTYPE al comienzo
-    > de tu documento HTML para especificar la versión de HTML que estás
-    > utilizando. Por ejemplo: "***\<!DOCTYPE html\>***"
+     de tu documento HTML para especificar la versión de HTML que estás
+     utilizando. Por ejemplo: "***\<!DOCTYPE html\>***"
 
 -   **HTML Element:** Usa el elemento ***\<html\>*** como el elemento
-    > raíz de la página.
+    raíz de la página.
 
 -   **Head** **Section**: Utiliza el elemento ***\<head\>*** para
-    > incluir metadatos, vínculos a hojas de estilo externas, scripts y
-    > otros elementos relacionados con la configuración de la página.
+     incluir metadatos, vínculos a hojas de estilo externas, scripts y
+     otros elementos relacionados con la configuración de la página.
 
 -   **Body** **Section**: El contenido visible de nuestra página va
-    > dentro del elemento ***\<body\>***.
+     dentro del elemento ***\<body\>***.
 
 -   **Atributos Alt**: Siempre que uses elementos \<img\> para imágenes,
-    > incluye el atributo alt con un texto descriptivo para
-    > accesibilidad.
+     incluye el atributo alt con un texto descriptivo para
+     accesibilidad.
 
 > **Google HTML/CSS Style Guide**
 >
@@ -1879,32 +1797,32 @@ height="3.638888888888889in"}
 > ) podemos mencionar:
 
 -   **Separación de Selectores**: Separa múltiples selectores y reglas
-    > de estilo en líneas separadas para mejorar la legibilidad.
+     de estilo en líneas separadas para mejorar la legibilidad.
 
 -   **Indentación**: Utiliza 2 espacios de indentación para las reglas
-    > de estilo CSS.
+     de estilo CSS.
 
 -   **Comentarios**: Utiliza comentarios claros y concisos para
-    > documentar las secciones de CSS y explicar la función de las
-    > reglas.
+     documentar las secciones de CSS y explicar la función de las
+     reglas.
 
 -   **Agrupación de Propiedades:** Agrupa las propiedades relacionadas y
-    > coloca las propiedades de diseño (como font-size y color) antes
-    > que las propiedades de diseño (como margin y padding).
+     coloca las propiedades de diseño (como font-size y color) antes
+    que las propiedades de diseño (como margin y padding).
 
 -   **Uso de Abreviaciones:** Utilizar abreviaciones para las
-    > propiedades de CSS siempre que sea posible. Por ejemplo, en lugar
-    > de margin-top, utiliza margin con los valores correspondientes.
+     propiedades de CSS siempre que sea posible. Por ejemplo, en lugar
+     de margin-top, utiliza margin con los valores correspondientes.
 
 -   **Longitud de Línea:** Limitar las líneas de código CSS a un máximo
-    > de 80 caracteres para facilitar la lectura en pantallas más
-    > pequeñas.
+     de 80 caracteres para facilitar la lectura en pantallas más
+     pequeñas.
 
 -   **Nombres de Clases:** Utilizar nombres de clases descriptivos y
-    > significativos en lugar de nombres abreviados o crípticos.
+     significativos en lugar de nombres abreviados o crípticos.
 
 -   **Prefijo de Clases:** Utilizar prefijos de clases para evitar
-    > conflictos entre diferentes componentes y estilos.
+     conflictos entre diferentes componentes y estilos.
 
 > **Gherkin Conventions for Readable Specifications**
 >
@@ -1914,56 +1832,52 @@ height="3.638888888888889in"}
 > ) están:
 
 -   Escribir las especificaciones en un lenguaje simple y fácil de
-    > entender por todos los miembros del equipo de desarrollo.
+     entender por todos los miembros del equipo de desarrollo.
 
 -   Utilizar las palabras \"Given\", \"When\" y \"Then\" y "And" para
-    > los pasos del escenario.
+     los pasos del escenario.
 
 -   Usar verbos finitos y en tiempo presente para las acciones del
-    > escenario.
+     escenario.
 
 -   Evitar redundancias en la descripción de los pasos en el escenario.
 
 -   Utilizar formato y estilo consistente en toda la especificación,
-    > para todos los escenarios.
+     para todos los escenarios.
 
 > 5.1.4. Software Deployment Configuration.
->
-> Se utilizará el servicio de Netlify
-> ([[https://www.netlify.com/]{.underline}](https://www.netlify.com/) )
-> para realizar el proceso de deployment del landing page de
-> FastService. A continuación se presentará el proceso para realizarlo:
+
+ Se utilizará el servicio de Netlify
+ ([[https://www.netlify.com/]{.underline}](https://www.netlify.com/) )
+ para realizar el proceso de deployment del landing page de
+ FastService. A continuación se presentará el proceso para realizarlo:
 
 1.  Crear o tener una cuenta de Netlify ingresando a su página web
-    > oficial
-    > ([[https://www.netlify.com/]{.underline}](https://www.netlify.com/)
-    > ). Esta cuenta se puede crear con Github, Gitlab o Bitbucket o con
-    > un correo convencional.
+     oficial
+     ([[https://www.netlify.com/]{.underline}](https://www.netlify.com/)
+     ). Esta cuenta se puede crear con Github, Gitlab o Bitbucket o con
+     un correo convencional.
 
-> ![](.//public/assets/images/md/image84.png){width="6.267716535433071in"
-> height="3.0555555555555554in"}
+> ![](.//public/assets/images/md/image84.png)
 
 2.  Una vez con la sesión iniciado, dirigirse a la sección de sitios y
-    > seleccionar "Import from Git"
+     seleccionar "Import from Git"
 
-> ![](.//public/assets/images/md/image88.png){width="6.267716535433071in"
-> height="3.763888888888889in"}
+> ![](.//public/assets/images/md/image88.png)
 
 3.  Seleccionamos la opción de GitHub
 
-> ![](.//public/assets/images/md/image4.png){width="6.267716535433071in" height="2.375in"}
+ ![](.//public/assets/images/md/image4.png)
 
 4.  Seleccionamos la organización con el repositorio a deployar.
 
-> ![](.//public/assets/images/md/image53.png){width="6.267716535433071in"
-> height="2.263888888888889in"}
+> ![](.//public/assets/images/md/image53.png)
 
 5.  Seleccionamos el repositorio y luego nos aparecerá el botón "Deploy
-    > Site" al final del formulario. De esta manera, la página ya
-    > estaría deployada en unos instantes.
+     Site" al final del formulario. De esta manera, la página ya
+     estaría deployada en unos instantes.
 
-> ![](.//public/assets/images/md/image102.png){width="6.267716535433071in"
-> height="1.7361111111111112in"}
+> ![](.//public/assets/images/md/image102.png)
 
 5.2. Landing Page, Services & Applications Implementation.
 
@@ -1989,8 +1903,7 @@ height="3.638888888888889in"}
 
 > 5.2.1.2. Sprint Backlog 1.
 >
-> ![](.//public/assets/images/md/image101.png){width="6.621574803149606in"
-> height="3.244792213473316in"}
+> ![](.//public/assets/images/md/image101.png)
 >
 > 5.2.1.3. Development Evidence for Sprint Review.
 
@@ -2019,21 +1932,15 @@ height="3.638888888888889in"}
 > A continuación se presentan capturas del landing page implementado
 > parcialmente en código, con el uso de HTML, CSS y el framework
 > TailwindCSS:\
-> ![](.//public/assets/images/md/image60.png){width="5.947916666666667in"
-> height="2.5208333333333335in"}![](.//public/assets/images/md/image99.png){width="5.953125546806649in"
-> height="2.6403390201224846in"}
+> ![](.//public/assets/images/md/image60.png)![](.//public/assets/images/md/image99.png)
 >
-> ![](.//public/assets/images/md/image58.png){width="5.973958880139983in"
-> height="3.002509842519685in"}
+> ![](.//public/assets/images/md/image58.png)
 >
-> ![](.//public/assets/images/md/image6.png){width="5.994792213473316in"
-> height="3.0541447944007in"}
+> ![](.//public/assets/images/md/image6.png)
 >
-> ![](.//public/assets/images/md/image30.png){width="5.985481189851269in"
-> height="3.0325109361329834in"}
+> ![](.//public/assets/images/md/image30.png)
 >
-> ![](.//public/assets/images/md/image108.png){width="5.985795056867891in"
-> height="2.9531255468066493in"}
+> ![](.//public/assets/images/md/image108.png)
 >
 > 5.2.1.6. Services Documentation Evidence for Sprint Review.
 >
@@ -2065,11 +1972,9 @@ height="3.638888888888889in"}
 >
 > en Github
 >
-> ![](.//public/assets/images/md/image103.png){width="6.267716535433071in"
-> height="3.986111111111111in"}
+> ![](.//public/assets/images/md/image103.png)
 >
-> ![](.//public/assets/images/md/image24.png){width="6.267716535433071in"
-> height="3.5833333333333335in"}
+> ![](.//public/assets/images/md/image24.png)
 
 **Conclusiones:**
 
