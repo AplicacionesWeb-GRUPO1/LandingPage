@@ -54,7 +54,7 @@ function login(){
 
     if(user == "Hola" && password == "Hola1234"){
         alert("Hola de nuevo! :) " + user);
-        window.open("https://fastservice1-2fa43.web.app/"); 
+        window.open("https://fastservice-e75c1.web.app/"); 
     }
     else{
         alert("Hay un error en su cuenta, intente de nuevo :/")
