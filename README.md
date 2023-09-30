@@ -29,192 +29,108 @@ FASTSERVICE
 
 Agosto 2023
 
-**Tabla de Contenido**
+# Tabla de Contenido
+
+- [Registro de Versiones](#registro-versiones)
+- [Student Outcome](#student-outcome)
+- [Capítulo I: Introducción](#Capítulo-I:-Introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II:-Requirements-Elicitation-&-Analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+- [Capítulo III: Requirements Specification](#Capítulo-III:-Requirements-Specification)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
+- [Capítulo IV: Product Design](#Capítulo-IV:-Product-Design)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation & Deployment](#Capítulo-V:-Product-Implementation,-Validation-&-Deployment)
+  - [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+    - [5.2.1. Sprint n](#521-sprint-n)
+      - [5.2.1.1. Sprint Planning n](#5211-sprint-planning-n)
+       -[5.2.1.2. Sprint Backlog n](#5212-sprint-backlog-n)
+      - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
+- [Conclusiones](#conclusiones)
+  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+- [Video About-the-Team](#video-about-the-team)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
 
-Student Outcome
 
-Capítulo I: Introducción
-
-1.1. Startup Profile
-
-1.1.1. Descripción de la Startup
-
-1.1.2. Perfiles de integrantes del equipo
-
-5/34
-
-1.2. Solution Profile
-
-1.2.1 Antecedentes y problemática
-
-1.2.2 Lean UX Process.
-
-1.2.2.1. Lean UX Problem Statements.
-
-1.2.2.2. Lean UX Assumptions.
-
-1.2.2.3. Lean UX Hypothesis Statements.
-
-1.2.2.4. Lean UX Canvas.
-
-1.3. Segmentos objetivo.
-
-Capítulo II: Requirements Elicitation & Analysis
-
-2.1. Competidores.
-
-2.1.1. Análisis competitivo.
-
-2.1.2. Estrategias y tácticas frente a competidores.
-
-2.2. Entrevistas.
-
-2.2.1. Diseño de entrevistas.
-
-2.2.2. Registro de entrevistas.
-
-2.2.3. Análisis de entrevistas.
-
-2.3. Needfinding.
-
-2.3.1. User Personas.
-
-2.3.2. User Task Matrix.
-
-2.3.3. User Journey Mapping.
-
-2.3.4. Empathy Mapping.
-
-2.3.5. As-is Scenario Mapping.
-
-Capítulo III: Requirements Specification
-
-3.1. To-Be Scenario Mapping.
-
-3.2. User Stories.
-
-3.3. Impact Mapping.
-
-3.4. Product Backlog.
-
-Capítulo IV: Product Design
-
-4.1. Style Guidelines.
-
-4.1.1. General Style Guidelines.
-
-4.1.2. Web Style Guidelines.
-
-4.2. Information Architecture.
-
-4.2.1. Organization Systems.
-
-4.2.2. Labeling Systems.
-
-4.2.3. SEO Tags and Meta Tags
-
-4.2.4. Searching Systems.
-
-4.2.5. Navigation Systems.
-
-4.3. Landing Page UI Design.
-
-4.3.1. Landing Page Wireframe.
-
-4.3.2. Landing Page Mock-up.
-
-4.4. Web Applications UX/UI Design.
-
-4.4.1. Web Applications Wireframes.
-
-4.4.2. Web Applications Wireflow Diagrams.
-
-4.4.2. Web Applications Mock-ups.
-
-6/34 V1.0
-
-4.4.3. Web Applications User Flow Diagrams.
-
-4.5. Web Applications Prototyping.
-
-4.6. Domain-Driven Software Architecture.
-
-4.6.1. Software Architecture Context Diagram.
-
-4.6.2. Software Architecture Container Diagrams.
-
-4.6.3. Software Architecture Components Diagrams.
-
-4.7. Software Object-Oriented Design.
-
-4.7.1. Class Diagrams.
-
-4.7.2. Class Dictionary.
-
-4.8. Database Design.
-
-4.8.1. Database Diagram.
-
-Capítulo V: Product Implementation, Validation & Deployment
-
-5.1. Software Configuration Management.
-
-5.1.1. Software Development Environment Configuration.
-
-5.1.2. Source Code Management.
-
-5.1.3. Source Code Style Guide & Conventions.
-
-5.1.4. Software Deployment Configuration.
-
-5.2. Landing Page, Services & Applications Implementation.
-
-5.2.X. Sprint n
-
-5.2.X.1. Sprint Planning n.
-
-5.2.X.2. Sprint Backlog n.
-
-5.2.X.3. Development Evidence for Sprint Review.
-
-5.2.X.4. Testing Suite Evidence for Sprint Review.
-
-5.2.X.5. Execution Evidence for Sprint Review.
-
-5.2.X.6. Services Documentation Evidence for Sprint Review.
-
-5.2.X.7. Software Deployment Evidence for Sprint Review.
-
-5.2.X.8. Team Collaboration Insights during Sprint.
-
-5.3. Validation Interviews.
-
-5.3.1. Diseño de Entrevistas.
-
-5.3.2. Registro de Entrevistas.
-
-5.3.3. Evaluaciones según heurísticas.
-
-5.4. Video About-the-Product.
-
-Conclusiones
-
-Conclusiones y recomendaciones.
-
-Video About-the-Team.
-
-Bibliografía
-
-Anexos
 
 **Registro de Versiones**
 
+
 |**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
 | :- | :- | :- | :- |
-|TB1|Sábado 8 de abril|<p>- Jarama Peñaloza, Fiorella</p><p>-Lucas Coronel, Nadia Alessandra</p><p>-Torres Alva, Alejandro<br>- Achamizo Huamani, Jean</p>|<p>Se han incluido los capítulos:</p><p>● Capítulo I: Introducción</p><p>● Capítulo II: Requirements</p><p>Elicitation & Analysis,</p><p>● Capítulo III: Requirements</p><p>Specification</p><p>● Capítulo IV: Product Design</p><p>● Capítulo V: Product</p><p>Implementation, Validation &</p><p>Deployment</p><p>● Avance de Conclusiones,</p><p>Bibliografía y Anexos</p>|
-|TP1||||
-|TB2||||
-|TF||||
+|**TB1**|Sábado 8 de abril|<p>- Jarama Peñaloza, Fiorella</p><p>-Lucas Coronel, Nadia Alessandra</p><p>-Torres Alva, Alejandro<br>- Achamizo Huamani, Jean</p>|<p>Se han incluido los capítulos:</p><p>Capítulo I: Introducción</p><p>Capítulo II: Requirements</p><p>Elicitation & Analysis,</p><p>Capítulo III: Requirements</p><p>Specification</p><p>Capítulo IV: Product Design</p><p>Capítulo V: Product</p><p>Implementation, Validation &</p><p>Deployment</p><p>Avance de Conclusiones,</p><p>Bibliografía y Anexos</p>|
+|**TP1**||||
+|**TB2**||||
+|**TF**||||
+
 
 
 **Student Outcome**
@@ -223,6 +139,7 @@ Anexos
 | :- | :- | :- |
 |<p>Participa en equipos </p><p>multidisciplinarios con eficacia, </p><p>eficiencia y objetividad, en el </p><p>marco de un proyecto en </p><p>soluciones de ingeniería de </p><p>software.</p>|<p>**Jarama Peñaloza, Fiorella**</p><p>**TB1:**</p><p></p><p></p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:** </p><p>Se contribuyó principalmente en la identificación de los antecedentes y la identificación profunda de la problemática. Durante este proceso, se tuvo un enfoque en la colaboración efectiva y la aplicación de las mejores prácticas de ingeniería de software para lograr el éxito del producto.</p><p></p><p>**Torres Alva, Alejandro**</p><p>**TB1:**</p><p>Se realizaron reuniones donde llegamos a la conclusión de crear un aplicativo que pueda ofrecer un intermediario entre trabajadores de servicios generales con los clientes. Así, ofreciendo oportunidades y solucionando los problemas para ambos casos.</p><p>**Achamizo Huamani, Jean**</p><p>**TB1:**</p><p>Se ha reconocido la falta de una plataforma centralizada que conecte a trabajadores técnicos y clientes de manera efectiva, limitando las oportunidades laborales y el acceso a servicios de reparación confiables en el hogar en Perú.</p><p></p><p>**Trujillo Acosta, Enzo Paolo**</p><p>**TB1:**</p><p>Junto con el equipo realizamos diferentes reuniones que permiten organizar de manera eficiente la solución propuesta.</p><p></p>|<p>**TB1:**</p><p>Se establecieron bases sólidas en términos de requisitos, diseño, desarrollo y pruebas, lo que ha fortalecido nuestra confianza en el futuro del producto. </p><p></p><p>**TP1:**</p><p></p><p>**TB2:**</p><p></p><p>**TF:**</p>|
 |<p>*Conoce al menos un sector* </p><p>*empresarial o dominio de* </p><p>*aplicación de soluciones de* </p><p>*software.*</p>|<p>**Jarama Peñaloza, Fiorella**</p><p>**TB1:**</p><p></p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:**</p><p>En esta entrega se adentró en el dominio de aplicaciones de soluciones de software orientadas a la búsqueda y conexión de expertos técnicos. A través de este enfoque, se ganó un entendimiento sólido de las necesidades y desafíos específicos de este sector empresarial.</p><p></p><p>**Torres Alva, Alejandro**</p><p>**TB1:**</p><p>Se realizó una investigación para ver sobre qué dominios poner en el trabajo y para el software deducimos que sería uno que nos ayude a ser un intermediario entre nuestros clientes y trabajadores , y trabajadores con proveedores.</p><p>**Achamizo Huamani, Jean** </p><p>**TB1:**<br>Se investigó sobre el desarrollo de un dominio de negocio e implementar un software de solución para desarrollar nuestra startup.</p><p></p><p></p><p>**Trujillo Acosta, Enzo Paolo**</p><p>**TB1:**</p><p>Junto con el equipo, en esta entrega realizamos el "UI/UX design" que es un sector empresarial relacionado con el desarrollo de aplicaciones móviles y sitios web.</p>|<p>***TB1:***</p><p></p><p>***TP1:***</p><p></p><p>***TB2:***</p><p></p><p>***TF:***</p>|
+
 
 
 
@@ -243,7 +160,7 @@ la vida de las personas en su día a día.
 1.1.2. Perfiles de integrantes del equipo
 
 
-|<p>**Nombre**: Jean Carlos Achamizo Huamani</p><p>**código**: u202120841</p><p>**Carrera**: Ingeniería de Software</p><p>![](/public/assets/images/md/image96.png)</p>|<p>Como estudiante de Ingeniería de Software en la Universidad UPC, mi entusiasmo por el aprendizaje constante me impulsa a buscar siempre nuevas maneras de perfeccionar mis habilidades académicas y aplicarlas en situaciones prácticas, también poseo aptitudes en comunicación asertiva y escucha activa. Reconozco la importancia de una comunicación clara y efectiva en cualquier proyecto de software, y cuento con la capacidad de escuchar de manera atenta para comprender las necesidades y expectativas de los clientes y colegas de equipo. Mi compromiso es emplear estas habilidades con el propósito de alcanzar los resultados más óptimos en cada proyecto en el que participe.</p><p></p>|
+|<p>**Nombre**: Jean Carlos Achamizo Huamani</p><p>**código**: u202120841</p><p>**Carrera**: Ingeniería de Software</p><p>![carlos](/public/assets/images/md/image96.png)</p>|<p>Como estudiante de Ingeniería de Software en la Universidad UPC, mi entusiasmo por el aprendizaje constante me impulsa a buscar siempre nuevas maneras de perfeccionar mis habilidades académicas y aplicarlas en situaciones prácticas, también poseo aptitudes en comunicación asertiva y escucha activa. Reconozco la importancia de una comunicación clara y efectiva en cualquier proyecto de software, y cuento con la capacidad de escuchar de manera atenta para comprender las necesidades y expectativas de los clientes y colegas de equipo. Mi compromiso es emplear estas habilidades con el propósito de alcanzar los resultados más óptimos en cada proyecto en el que participe.</p><p></p>|
 | :-: | - |
 |<p>**Nombre**: Alejandro Torres Alva</p><p>**código**: u202022018</p><p>**Carrera**: Ingeniería de Software</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>![](/public/assets/images/md/image56.png)</p>|Como estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Dentro de mis habilidades considero que tengo conocimientos básicos en programación en c + + y python. También, considero que puedo apoyar a mi grupo en lo que se me encomienda y si tengo alguna duda llegaría a hablarlo con mi grupo.|
 |<p>**Nombre**: Enzo Paolo Trujillo Acosta</p><p>**código**: u202120379</p><p>**Carrera**: Ingeniería de Software</p><p></p><p></p><p>![](/public/assets/images/md/image3.png)</p>|<p>Soy un estudiante de la carrera de Ingeniería de Software cursando mi 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en programación en C++, Python y Java. Además, me gusta bastante analizar y resolver problemas usando la lógica. Me comprometo a apoyar a mi equipo en la organización y en cada activa que se nos asigne y estoy dispuesto a aprender y crecer continuamente en mi carrera de ingeniería de software.</p><p></p><p></p><p></p><p></p>|
@@ -351,9 +268,9 @@ la vida de las personas en su día a día.
 > servicios técnicos. La plataforma buscará ofrecer precios competitivos
 > y transparentes.
 
-1.2.2 Lean UX Process.
+1.2.2 Lean UX Process
 
-1.2.2.1. Lean UX Problem Statements.
+1.2.2.1. Lean UX Problem Statements
 
 -   Los trabajadores técnicos en Perú enfrentan dificultades para
     > encontrar clientes confiables y establecer conexiones laborales
@@ -376,7 +293,7 @@ la vida de las personas en su día a día.
     > herramientas necesarias afecta negativamente tanto a los clientes
     > que buscan respuestas inmediatas
 
-1.2.2.2. Lean UX Assumptions.
+1.2.2.2. Lean UX Assumptions
 
 ##### **Business Assumptions**
 
@@ -444,10 +361,10 @@ usuarios y profesionales.
 
 > **¿Quién es el usuario?**
 >
-> ● Personas que necesitan acceder a servicios de reparación en el
+> Personas que necesitan acceder a servicios de reparación en el
 > hogar.
 >
-> ● Profesionales que ofrecen servicios de reparación en el hogar y
+> Profesionales que ofrecen servicios de reparación en el hogar y
 > buscan oportunidades laborales.
 >
 > **¿Dónde encaja nuestro servicio en su trabajo o vida?**
@@ -461,13 +378,13 @@ usuarios y profesionales.
 >
 > **¿Qué problema tiene nuestro servicio y cómo se resuelve?**
 >
-> ● Un problema común podría ser la falta de confianza de los usuarios
+> Un problema común podría ser la falta de confianza de los usuarios
 > en la calidad de los profesionales que encuentran a través de la
 > plataforma. Esto se podría resolver implementando un sistema de
 > calificación que permita observar el historial de cada uno de los
 > profesionales.
 >
-> ● Otro problema podría ser la dificultad de los profesionales para
+> Otro problema podría ser la dificultad de los profesionales para
 > encontrar herramientas y suministros específicos a través de la
 > plataforma. Esto se podría resolver colaborando con proveedores de
 > herramientas y suministros, ofreciendo una amplia gama de opciones y
@@ -475,16 +392,16 @@ usuarios y profesionales.
 >
 > **¿Cuándo y cómo es usado nuestro servicio?**
 >
-> ● Los usuarios utilizan nuestro servicio cuando necesiten servicios de
+> Los usuarios utilizan nuestro servicio cuando necesiten servicios de
 > reparación en el hogar. Buscarán profesionales, solicitarán servicios,
 > reservarán citas y realizarán pagos a través de la plataforma.
 >
-> ● Los proveedores de servicios usarán nuestra plataforma para
+> Los proveedores de servicios usarán nuestra plataforma para
 > encontrar y recibir oportunidades laborales, además cuando necesiten
 > adquirir herramientas según las necesidades de los trabajos que
 > realizan.
 >
-> ● Ambos usuarios accederán al servicio a través de una aplicación web
+> Ambos usuarios accederán al servicio a través de una aplicación web
 > en un navegador.
 
 **Users outcomes**
@@ -538,17 +455,17 @@ usuarios y profesionales.
 
 > **¿Cómo debería verse y comportarse nuestro servicio?**
 >
-> ● La interfaz de usuario (UI) debe ser moderna, fácil de entender y en
+> La interfaz de usuario (UI) debe ser moderna, fácil de entender y en
 > línea con la temática de reparaciones en el hogar.
 >
-> ● La experiencia de usuario (UX) debe priorizar la navegación sencilla
+> La experiencia de usuario (UX) debe priorizar la navegación sencilla
 > y la realización fluida de acciones como buscar profesionales,
 > reservar citas y realizar pagos.
 >
-> ● El servicio debe estar disponible las 24 horas del día, los 7 días
+> El servicio debe estar disponible las 24 horas del día, los 7 días
 > de la semana para brindar comodidad a los usuarios y profesionales.
 
-1.2.2.3. Lean UX Hypothesis Statements.
+[1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
 
 Creemos que nuestro aplicativo va a ayudar a los trabajadores que estén
 buscando clientes y tendrán una mejor experiencia al también conseguir
@@ -583,13 +500,13 @@ su necesidad.
 Sabremos que tendremos éxito cuando nuestro aplicativo crezca con el
 paso del tiempo y no tengamos caídas de usuarios.
 
-1.2.2.4. Lean UX Canvas.
+[1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 
-<table><tr><th colspan="1" rowspan="2" valign="top"><p><b>Business Problem (1)</b> </p><p>Personas y empresas en Perú enfrentan dificultades para encontrar de manera rápida y eficiente expertos calificados. Al mismo tiempo, los técnicos encuentran obstáculos para establecer su propio servicio y ganar reconocimiento debido a la inversión y los riesgos asociados.</p></th><th colspan="1" rowspan="2" valign="top"><p><b>Solution Ideas (5)</b> </p><p>- Cree una plataforma digital centralizada que conecte a personas, propietarios de empresas y técnicos en una comunidad que busca soluciones confiables y oportunidades laborales.</p><p>- Ofrezca un mercado integral para servicios de reparación y ofertas de trabajo, proporcionando una conexión perfecta entre los solicitantes y los proveedores de servicios.</p><p> </p><p></p></th><th colspan="1" rowspan="2" valign="top"><p><b>Business outcomes (2)</b> </p><p>- Establecer una plataforma confiable y eficiente que mejore la experiencia del usuario para todas las partes involucradas.</p><p>- Aumente el número de personas que buscan servicios de reparación brindándoles una solución conveniente y confiable.</p></th></tr>
+<table><tr><th colspan="1" rowspan="2" valign="top"><p><b>Business Problem (1)</b> </p><p>Personas y empresas en Perú enfrentan dificultades para encontrar de manera rápida y eficiente expertos calificados. Al mismo tiempo, los técnicos encuentran obstáculos para establecer su propio servicio y ganar reconocimiento debido a la inversión y los riesgos asociados.</p></th><th colspan="1" rowspan="2" valign="top"><p><b>Solution Ideas (5)</b> </p><p>Cree una plataforma digital centralizada que conecte a personas, propietarios de empresas y técnicos en una comunidad que busca soluciones confiables y oportunidades laborales.</p><p>Ofrezca un mercado integral para servicios de reparación y ofertas de trabajo, proporcionando una conexión perfecta entre los solicitantes y los proveedores de servicios.</p><p> </p><p></p></th><th colspan="1" rowspan="2" valign="top"><p><b>Business outcomes (2)</b> </p><p>Establecer una plataforma confiable y eficiente que mejore la experiencia del usuario para todas las partes involucradas.</p><p>Aumente el número de personas que buscan servicios de reparación brindándoles una solución conveniente y confiable.</p></th></tr>
 <tr><td colspan="1"></td></tr>
 <tr><td colspan="1" valign="top"><b>User and Costumers (3)</b> </td><td colspan="1" rowspan="2" valign="top"></td><td colspan="1" valign="top"><b>User Benefits(4)</b> </td><td colspan="1"></td></tr>
-<tr><td colspan="1" valign="top"><p>- Personas que necesitan servicios de reparación de viviendas.</p><p>- Profesionales que ofrecen servicios de reparación y buscan oportunidades laborales.</p></td><td colspan="1" valign="top"><p></p><p>- Acceso a profesionales de confianza para reparaciones del hogar.</p><p>- Oportunidades laborales y un flujo constante de trabajo para los profesionales.</p><p>- Herramientas eficientes de gestión del trabajo para profesionales.</p><p>- Plataforma intuitiva y fácil de usar para todas las partes.</p></td><td colspan="1"></td></tr>
-<tr><td colspan="1" rowspan="2" valign="top"><p><b>Hypotheses (6)</b> </p><p>- Creemos que nuestra aplicación ayudará a los trabajadores que buscan clientes y mejorará su experiencia</p><p>- Creemos que los usuarios quedarán satisfechos porque la aplicación tendrá varias funciones para encontrar los servicios que necesitan.</p><p>- Creemos que los proveedores estarán satisfechos con la integración de la aplicación, </p><p>- Creemos que implementar comisiones para los trabajadores será rentable </p><p></p></td><td colspan="1" rowspan="2" valign="top"><p><b>What’s the most important thing we need to learn first? (7)</b> </p><p>El aspecto más crítico que hay que aprender primero es si los trabajadores y los clientes encuentran valor en la plataforma propuesta y si los conecta de manera efectiva. Específicamente, necesitamos validar si los trabajadores pueden conseguir fácilmente oportunidades laborales y si los clientes perciben la plataforma como una fuente confiable de servicios de reparación. Es fundamental comprender con qué eficacia la plataforma cierra esta brecha.</p><p></p></td><td colspan="1" rowspan="2" valign="top"><p><b>What’s the least amount of work we need to do to learn the next most important thing? (8)</b> </p><p> </p><p>Desarrollar una versión mínima viable  de la plataforma que se centre en las funcionalidades principales, lo que nos permitirá observar la participación y los comentarios de los usuarios. El MVP debería permitir a los trabajadores crear perfiles y enumerar sus servicios, y a los clientes navegar y solicitar servicios. Al lanzar el MVP, podemos recopilar información valiosa sobre la experiencia inicial del usuario, identificar puntos débiles e iterar sobre mejoras basadas en las interacciones y los comentarios de los usuarios. Este enfoque nos ayudará a validar nuestras suposiciones y orientar la plataforma en la dirección correcta según sea necesario.</p></td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top"><p>Personas que necesitan servicios de reparación de viviendas.</p><p>Profesionales que ofrecen servicios de reparación y buscan oportunidades laborales.</p></td><td colspan="1" valign="top"><p></p><p>Acceso a profesionales de confianza para reparaciones del hogar.</p><p>Oportunidades laborales y un flujo constante de trabajo para los profesionales.</p><p>Herramientas eficientes de gestión del trabajo para profesionales.</p><p>Plataforma intuitiva y fácil de usar para todas las partes.</p></td><td colspan="1"></td></tr>
+<tr><td colspan="1" rowspan="2" valign="top"><p><b>Hypotheses (6)</b> </p><p>Creemos que nuestra aplicación ayudará a los trabajadores que buscan clientes y mejorará su experiencia</p><p>Creemos que los usuarios quedarán satisfechos porque la aplicación tendrá varias funciones para encontrar los servicios que necesitan.</p><p>Creemos que los proveedores estarán satisfechos con la integración de la aplicación, </p><p>- Creemos que implementar comisiones para los trabajadores será rentable </p><p></p></td><td colspan="1" rowspan="2" valign="top"><p><b>What’s the most important thing we need to learn first? (7)</b> </p><p>El aspecto más crítico que hay que aprender primero es si los trabajadores y los clientes encuentran valor en la plataforma propuesta y si los conecta de manera efectiva. Específicamente, necesitamos validar si los trabajadores pueden conseguir fácilmente oportunidades laborales y si los clientes perciben la plataforma como una fuente confiable de servicios de reparación. Es fundamental comprender con qué eficacia la plataforma cierra esta brecha.</p><p></p></td><td colspan="1" rowspan="2" valign="top"><p><b>What’s the least amount of work we need to do to learn the next most important thing? (8)</b> </p><p> </p><p>Desarrollar una versión mínima viable  de la plataforma que se centre en las funcionalidades principales, lo que nos permitirá observar la participación y los comentarios de los usuarios. El MVP debería permitir a los trabajadores crear perfiles y enumerar sus servicios, y a los clientes navegar y solicitar servicios. Al lanzar el MVP, podemos recopilar información valiosa sobre la experiencia inicial del usuario, identificar puntos débiles e iterar sobre mejoras basadas en las interacciones y los comentarios de los usuarios. Este enfoque nos ayudará a validar nuestras suposiciones y orientar la plataforma en la dirección correcta según sea necesario.</p></td><td colspan="1"></td></tr>
 <tr><td colspan="1"></td></tr>
 </table>
 
@@ -1117,9 +1034,6 @@ height="8.166666666666666in"}
 |US 19|Guardar Técnicos Favoritos|**Como** cliente, **quiero** poder guardar mis técnicos favoritos en una lista de "Mis Expertos" **para** futuras necesidades de reparación|<p>**Escenario 1:**</p><p>**Guardar Técnicos Favoritos**</p><p>**Given** Estoy explorando perfiles y he encontrado un técnico que me ha proporcionado un servicio excepcional.</p><p>**When** Esté viendo el perfil del técnico que deseo guardar como favorito.</p><p>**And**  Presione el botón con forma de “corazón”</p><p>**Then** El técnico debería ser agregado a mi lista de favoritos</p><p><br>**Escenario 2:** </p><p>**Quitar Técnico de Favoritos**</p><p></p><p>**Given**  Estoy en la sección "Mis Expertos" de mi cuenta.</p><p>**And** Tengo al menos un técnico guardado como favorito en mi lista.</p><p>**When** Haga clic en el perfil de un técnico que previamente había guardado como favorito.</p><p>**And:** Presione el botón "Quitar de Favoritos".</p><p>**Then** El técnico debería ser eliminado de mi lista de favoritos.</p><p></p>|E11|
 |US 20|Programar Disponibilidad a Largo Plazo|<p>**Como** técnico, **quiero** tener la opción de programar mi disponibilidad con anticipación para futuros meses, **para** una mejor planificación a largo plazo.</p><p></p><p></p>|<p>**Escenario 1:**</p><p>**Programar Disponibilidad a Largo Plazo**</p><p>**Given** : Soy un técnico registrado en Fast Service.</p><p>**When** Accedo a mi perfil en la aplicación.</p><p>**When** Navego a la sección de "Disponibilidad".</p><p>**When** Elijo una fecha en el futuro (por ejemplo, un mes específico).</p><p>**When** Establezco las horas y días en los que estaré disponible durante ese mes.</p><p>**Then** Debería recibir una confirmación de que mi disponibilidad a largo plazo ha sido programada con éxito **And** se reflejará en el calendario de la aplicación para futuras citas.<br><br>**Escenario 2:**</p><p>` `**Modificar Disponibilidad a Largo Plazo**</p><p></p><p>**Given**  Soy un técnico registrado en Fast Service.</p><p>**And** He programado previamente mi disponibilidad a largo plazo.</p><p>When: Accedo a mi perfil en la aplicación.</p><p>**And** Navegó a la sección de "Disponibilidad".</p><p>**And** Elijo el mes en el que he programado mi disponibilidad a largo plazo.</p><p>**And** Modificó las horas y días en los que estaré disponible durante ese mes.</p><p>**Then** Debería recibir una confirmación de que mi disponibilidad a largo plazo ha sido modificada con éxito **And** se refleja en el calendario de la aplicación para futuras citas.</p><p></p>|E11|
 
-
-
-
 3.3. Impact Mapping.
 
 ![](.//public/assets/images/md/image61.png){width="6.267716535433071in"
@@ -1159,7 +1073,7 @@ height="4.083333333333333in"}
 |20|US20|Programar Disponibilidad a Largo Plazo|<p>**Como** técnico, **quiero** tener la opción de programar mi disponibilidad con anticipación para futuros meses, **para** una mejor planificación a largo plazo.anticipación para futuros meses, **para** una mejor planificación a largo plazo.</p><p></p><p></p>|1|
 
 
-**Capítulo IV: Product Design**
+# Capítulo IV: Product Design
 
 4.1. Style Guidelines
 
@@ -1222,13 +1136,13 @@ height="4.083333333333333in"}
 
 El spacing mantiene:
 
-● Botones: padding de 16px vertical y 32px horizontal
+Botones: padding de 16px vertical y 32px horizontal
 
-● Margin entre texto 16px
+Margin entre texto 16px
 
-● Margin entre elementos 24px
+Margin entre elementos 24px
 
-● Margin entre secciones 72px
+Margin entre secciones 72px
 
 > 4.1.2. Web Style Guidelines
 >
@@ -1736,7 +1650,7 @@ height="3.638888888888889in"}
 > ![](.//public/assets/images/md/image69.png){width="6.267716535433071in"
 > height="4.083333333333333in"}
 
-**Capítulo V: Product Implementation, Validation & Deployment.**
+# Capítulo V: Product Implementation, Validation & Deployment
 
 5.1. Software Configuration Management.
 
@@ -1843,12 +1757,12 @@ height="3.638888888888889in"}
 >
 > \<type\>\[optional scope\]: \<description\>
 >
-> ● Type: representa el tipo de commit, sea tipo feature (feat), fix
+> Type: representa el tipo de commit, sea tipo feature (feat), fix
 > (fix) o docs (docs).
 >
-> ● Optional scope: es opcional y representa el alcance del commit.
+> Optional scope: es opcional y representa el alcance del commit.
 >
-> ● Description: descripción del commit y acciones realizadas.
+> Description: descripción del commit y acciones realizadas.
 >
 > 5.1.3. Source Code Style Guide & Conventions.
 >
