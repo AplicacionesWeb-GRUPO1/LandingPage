@@ -52,9 +52,9 @@ function login(){
     user = document.getElementById("user").value;
     password = document.getElementById("password").value;
 
-    if(user == "reparador5000" && password == "Hola1234#"){
+    if(user == "Hola" && password == "Hola1234"){
         alert("Hola de nuevo! :) " + user);
-        window.open("index.html"); 
+        window.open("https://fastservice1-2fa43.web.app/"); 
     }
     else{
         alert("Hay un error en su cuenta, intente de nuevo :/")
