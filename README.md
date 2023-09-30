@@ -1,18 +1,19 @@
 **Universidad Peruana de Ciencias Aplicadas**
 
 ![Upc Logo](public/assets/images/md/image22.png)
+<center>
 
-Carrera de Ingeniería de Software
+# Carrera de Ingeniería de Software
 
-Ciclo V
+## Ciclo V
 
-Aplicaciones Web
+### Aplicaciones Web
 
-CC52
+**CC52**
 
 Juan Carlos TInoco Licas
 
-**TB1**
+**TP**
 
 \-\-\--
 
@@ -28,6 +29,8 @@ FASTSERVICE
 |U202120379|Trujillo Acosta, Enzo Paolo|
 
 Agosto 2023
+
+</center>
 
 # Tabla de Contenido
 
@@ -126,19 +129,20 @@ Agosto 2023
 
 |**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
 | :- | :- | :- | :- |
-|**TB1**|Sábado 8 de abril|<p>- Jarama Peñaloza, Fiorella</p><p>-Lucas Coronel, Nadia Alessandra</p><p>-Torres Alva, Alejandro<br>- Achamizo Huamani, Jean</p>|<p>Se han incluido los capítulos:</p><p>Capítulo I: Introducción</p><p>Capítulo II: Requirements</p><p>Elicitation & Analysis,</p><p>Capítulo III: Requirements</p><p>Specification</p><p>Capítulo IV: Product Design</p><p>Capítulo V: Product</p><p>Implementation, Validation &</p><p>Deployment</p><p>Avance de Conclusiones,</p><p>Bibliografía y Anexos</p>|
-|**TP1**||||
-|**TB2**||||
-|**TF**||||
+|TB1|Sábado 8 de Setiembre|<p>- Jarama Peñaloza, Fiorella</p><p>-Lucas Coronel, Nadia Alessandra</p><p>-Torres Alva, Alejandro<br>- Achamizo Huamani, Jean</p><p>- Trujillo Acosta, Enzo Paolo</p>|<p>Se han incluido los capítulos:</p><p>Capítulo I: Introducción</p><p>Capítulo II: Requirements</p><p>Elicitation & Analysis,</p><p>Capítulo III: Requirements</p><p>Specification</p><p>Capítulo IV: Product Design</p><p>Avance del Capítulo V: Product</p><p>Implementation, Validation &</p><p>Deployment</p><p>Avance de Conclusiones,</p><p>Bibliografía y Anexos</p>|
+|TP1|Viernes 29 de Setiembre|<p>- Jarama Peñaloza, Fiorella</p><p>- Lucas Coronel, Nadia Alessandra</p><p>- Torres Alva, Alejandro<br>- Achamizo Huamani, Jean</p><p>- Trujillo Acosta, Enzo Paolo</p>|<p>Capítulo V: Product</p><p>Implementation, Validation &</p><p>Deployment</p><p>Avance de Conclusiones,</p><p>Bibliografía y Anexos</p>|
+|TB2||||
+|TF||||
 
 
 
 **Student Outcome**
 
+
 |**Criterio específico**|**Acciones Realizadas**|**Conclusiones**|
 | :- | :- | :- |
-|<p>Participa en equipos </p><p>multidisciplinarios con eficacia, </p><p>eficiencia y objetividad, en el </p><p>marco de un proyecto en </p><p>soluciones de ingeniería de </p><p>software.</p>|<p>**Jarama Peñaloza, Fiorella**</p><p>**TB1:**</p><p></p><p></p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:** </p><p>Se contribuyó principalmente en la identificación de los antecedentes y la identificación profunda de la problemática. Durante este proceso, se tuvo un enfoque en la colaboración efectiva y la aplicación de las mejores prácticas de ingeniería de software para lograr el éxito del producto.</p><p></p><p>**Torres Alva, Alejandro**</p><p>**TB1:**</p><p>Se realizaron reuniones donde llegamos a la conclusión de crear un aplicativo que pueda ofrecer un intermediario entre trabajadores de servicios generales con los clientes. Así, ofreciendo oportunidades y solucionando los problemas para ambos casos.</p><p>**Achamizo Huamani, Jean**</p><p>**TB1:**</p><p>Se ha reconocido la falta de una plataforma centralizada que conecte a trabajadores técnicos y clientes de manera efectiva, limitando las oportunidades laborales y el acceso a servicios de reparación confiables en el hogar en Perú.</p><p></p><p>**Trujillo Acosta, Enzo Paolo**</p><p>**TB1:**</p><p>Junto con el equipo realizamos diferentes reuniones que permiten organizar de manera eficiente la solución propuesta.</p><p></p>|<p>**TB1:**</p><p>Se establecieron bases sólidas en términos de requisitos, diseño, desarrollo y pruebas, lo que ha fortalecido nuestra confianza en el futuro del producto. </p><p></p><p>**TP1:**</p><p></p><p>**TB2:**</p><p></p><p>**TF:**</p>|
-|<p>*Conoce al menos un sector* </p><p>*empresarial o dominio de* </p><p>*aplicación de soluciones de* </p><p>*software.*</p>|<p>**Jarama Peñaloza, Fiorella**</p><p>**TB1:**</p><p></p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:**</p><p>En esta entrega se adentró en el dominio de aplicaciones de soluciones de software orientadas a la búsqueda y conexión de expertos técnicos. A través de este enfoque, se ganó un entendimiento sólido de las necesidades y desafíos específicos de este sector empresarial.</p><p></p><p>**Torres Alva, Alejandro**</p><p>**TB1:**</p><p>Se realizó una investigación para ver sobre qué dominios poner en el trabajo y para el software deducimos que sería uno que nos ayude a ser un intermediario entre nuestros clientes y trabajadores , y trabajadores con proveedores.</p><p>**Achamizo Huamani, Jean** </p><p>**TB1:**<br>Se investigó sobre el desarrollo de un dominio de negocio e implementar un software de solución para desarrollar nuestra startup.</p><p></p><p></p><p>**Trujillo Acosta, Enzo Paolo**</p><p>**TB1:**</p><p>Junto con el equipo, en esta entrega realizamos el "UI/UX design" que es un sector empresarial relacionado con el desarrollo de aplicaciones móviles y sitios web.</p>|<p>***TB1:***</p><p></p><p>***TP1:***</p><p></p><p>***TB2:***</p><p></p><p>***TF:***</p>|
+|<p>Participa en equipos </p><p>multidisciplinarios con eficacia, </p><p>eficiencia y objetividad, en el </p><p>marco de un proyecto en </p><p>soluciones de ingeniería de </p><p>software.</p>|<p>**Jarama Peñaloza, Fiorella**</p><p>**TB1:** Durante este proceso, se puso un enfoque particular en la formulación de declaraciones de hipótesis de Lean UX. Además, se llevaron a cabo investigaciones detalladas y pruebas de concepto para respaldar estas hipótesis, lo que ayudó a orientar de manera efectiva el desarrollo del producto y a tomar decisiones informadas en todo el ciclo de diseño y desarrollo.</p><p></p><p>**TP1:** En esta entrega se realizó el desarrollo de algunas de las funcionalidades del Frontend Web Application, así como la documentación que conlleva.</p><p></p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:** </p><p>Se contribuyó principalmente en la identificación de los antecedentes y la identificación profunda de la problemática. Durante este proceso, se tuvo un enfoque en la colaboración efectiva y la aplicación de las mejores prácticas de ingeniería de software para lograr el éxito del producto.</p><p></p><p>**TP1:**</p><p>Se realizaron múltiples reuniones durante las cuales trabajamos en la creación de la interfaz web frontal de nuestro proyecto, incorporando diversas características destinadas a mejorar la experiencia de navegación de nuestros usuarios. Estas adiciones se diseñaron con el propósito de proporcionar funcionalidades adicionales en la página que simplifiquen su uso.</p><p></p><p>**Torres Alva, Alejandro**</p><p>**TB1:**</p><p>Se realizaron reuniones donde llegamos a la conclusión de crear un aplicativo que pueda ofrecer un intermediario entre trabajadores de servicios generales con los clientes. Así, ofreciendo oportunidades y solucionando los problemas para ambos casos.</p><p></p><p>**TP1:** Se realizaron reuniones donde desarrollamos el front end web de nuestro trabajo, así se agregaron varias funcionalidades a nuestro trabajo para que nuestros usuarios tengan funcionalidades en la página que faciliten su navegación.</p><p></p><p>**Achamizo Huamani, Jean**</p><p>**TB1:**</p><p>Se ha reconocido la falta de una plataforma centralizada que conecte a trabajadores técnicos y clientes de manera efectiva, limitando las oportunidades laborales y el acceso a servicios de reparación confiables en el hogar en Perú.</p><p>**TP1:**</p><p></p><p>**Trujillo Acosta, Enzo Paolo**</p><p>**TB1:**</p><p>Junto con el equipo realizamos diferentes reuniones que permiten organizar de manera eficiente la solución propuesta.</p><p></p><p>**TP1:** </p><p>Junto con el equipo se repartieron las labores del sprint 2 y se organizaron diferentes reuniones para el despliegue e implementación del “fronted”.</p>|<p>**TB1:**</p><p>Se establecieron bases sólidas en términos de requisitos, diseño, desarrollo y pruebas, lo que ha fortalecido nuestra confianza en el futuro del producto. </p><p></p><p>**TP1:** Se optó por utilizar herramientas y servicios externos que nos ayudaron a simplificar el proceso de desarrollo y despliegue.</p><p></p><p>**TB2:**</p><p></p><p>**TF:**</p>|
+|<p>*Conoce al menos un sector* </p><p>*empresarial o dominio de* </p><p>*aplicación de soluciones de* </p><p>*software.*</p>|<p>**Jarama Peñaloza, Fiorella**</p><p>**TB1:**En esta fase de entrega, se focalizó en abordar la problemática a través del desarrollo de un prototipo, con el objetivo de probar y validar posibles soluciones antes de la implementación definitiva.</p><p></p><p>**TP1:** En esta entrega se enfocó en las funcionalidades de nuestra aplicación, tomando en cuenta la investigación y el análisis previamente hecho.</p><p></p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:**</p><p>En esta entrega se adentró en el dominio de aplicaciones de soluciones de software orientadas a la búsqueda y conexión de expertos técnicos. A través de este enfoque, se ganó un entendimiento sólido de las necesidades y desafíos específicos de este sector empresarial.</p><p>**TP1:**</p><p>Durante esta etapa de entrega, pusimos nuestro enfoque en enfrentar el desafío mediante la creación de un prototipo. Nuestra meta principal era someter a prueba y validar posibles soluciones antes de llevar a cabo la implementación definitiva.</p><p></p><p>**Torres Alva, Alejandro**</p><p>**TB1:**</p><p>Se realizó una investigación para ver sobre qué dominios poner en el trabajo y para el software deducimos que sería uno que nos ayude a ser un intermediario entre nuestros clientes y trabajadores , y trabajadores con proveedores.</p><p>**TP1:**</p><p>Sobre este entregable se realizó el trabajo mediante el dominio de aplicaciones web dando funcionalidades para que nuestros usuarios estén complacidos con el app.</p><p></p><p>**Achamizo Huamani, Jean** </p><p>**TB1:**<br>Se investigó sobre el desarrollo de un dominio de negocio e implementar un software de solución para desarrollar nuestra startup.</p><p></p><p>**Trujillo Acosta, Enzo Paolo**</p><p>**TB1:**</p><p>Junto con el equipo, en esta entrega realizamos el "UI/UX design" que es un sector empresarial relacionado con el desarrollo de aplicaciones móviles y sitios web.</p><p>**TP1:**</p><p>Durante el desarrollo hemos usado herramientas como Vue, las cuales son muy comunes en el sector empresarial.</p>|<p>**TB1:*** Se han consolidado los fundamentos en cuanto a exigencias, creación, diseño y evaluaciones, lo que ha consolidado nuestra seguridad en lo que depara el porvenir del producto.</p><p></p><p>**TP1:** Esta concentración en el desarrollo frontend indica que planificamos y coordinamos nuestras tareas de manera efectiva para alcanzar los objetivos del sprint.</p><p></p><p>**TB2:**</p><p></p><p>**TF:**</p>|
 
 
 
@@ -1933,21 +1937,17 @@ height="3.638888888888889in"}
 > A continuación se presentan capturas del landing page implementado
 > parcialmente en código, con el uso de HTML, CSS y el framework
 > TailwindCSS:\
-> ![](.//public/assets/images/md/image60.png){width="5.947916666666667in"
-> height="2.5208333333333335in"}![](.//public/assets/images/md/image99.png){width="5.953125546806649in"
-> height="2.6403390201224846in"}
+> ![](.//public/assets/images/md/image60.png){width="5.947916666666667in" height="2.5208333333333335in"}
+> ![](.//public/assets/images/md/image99.png){width="5.953125546806649in" height="2.6403390201224846in"}
 >
 > ![](.//public/assets/images/md/image58.png){width="5.973958880139983in"
 > height="3.002509842519685in"}
 >
-> ![](.//public/assets/images/md/image6.png){width="5.994792213473316in"
-> height="3.0541447944007in"}
+> ![](.//public/assets/images/md/image6.png){width="5.994792213473316in" height="3.0541447944007in"}
 >
-> ![](.//public/assets/images/md/image30.png){width="5.985481189851269in"
-> height="3.0325109361329834in"}
+> ![](.//public/assets/images/md/image30.png){width="5.985481189851269in" height="3.0325109361329834in"}
 >
-> ![](.//public/assets/images/md/image108.png){width="5.985795056867891in"
-> height="2.9531255468066493in"}
+> ![](.//public/assets/images/md/image108.png){width="5.985795056867891in" height="2.9531255468066493in"}
 >
 > 5.2.1.6. Services Documentation Evidence for Sprint Review.
 >
@@ -1955,23 +1955,21 @@ height="3.638888888888889in"}
 > nos hemos concentrado exclusivamente en la creación de la página de
 > inicio estática. Por lo tanto, en esta presentación no se proporciona
 > documentación relacionada con la utilización de servicios web.
+
+
+> 5.2.1.7. Software Deployment Evidence for Sprint Review
 >
-> 5.2.1.7. Software Deployment Evidence for Sprint Review.
+> Hasta ahora, no hemos utilizado servicios web en el proceso de desarrollo de la página de inicio. Esto significa que no hemos realizado actividades como la creación de cuentas, la configuración de recursos en proveedores de servicios en la nube, la creación de proyectos de desarrollo para la integración o automatización de tareas de implementación, entre otras acciones relacionadas.
 >
-> Hasta ahora, no hemos utilizado servicios web en el proceso de
-> desarrollo de la página de inicio. Esto significa que no hemos
-> realizado actividades como la creación de cuentas, la configuración de
-> recursos en proveedores de servicios en la nube, la creación de
-> proyectos de desarrollo para la integración o automatización de tareas
-> de implementación, entre otras acciones relacionadas.
+>En cuanto al despliegue de la página de inicio, lo hemos realizado en la plataforma de Netlify. 
 >
-> En cuanto al despliegue de la página de inicio, lo hemos realizado en
-> la plataforma de Netlify. Puedes acceder a la página de inicio a
-> través del siguiente enlace:
-> [[https://main\--darling-stroopwafel-93011e.netlify.app]{.underline}](https://main--darling-stroopwafel-93011e.netlify.app).
-> A continuación, se muestran algunas capturas de pantalla del proceso
-> de despliegue en Netlify.
+>Puedes acceder a la página de inicio a través del siguiente enlace: 
 >
+><https://main--darling-stroopwafel-93011e.netlify.app>. 
+>
+>Para ingresar a la parte funcionar debe ingresar el **usuario: Hola** y la c**ontraseña: Hola1234**
+
+
 > 5.2.1.8. Team Collaboration Insights during Sprint.
 >
 > A continuación se presentan capturas de los insights del repositorio
@@ -1979,76 +1977,122 @@ height="3.638888888888889in"}
 >
 > en Github
 >
-> ![](.//public/assets/images/md/image103.png){width="6.267716535433071in"
-> height="3.986111111111111in"}
+> ![](.//public/assets/images/md/image103.png){width="6.267716535433071in" height="3.986111111111111in"}
 >
-> ![](.//public/assets/images/md/image24.png){width="6.267716535433071in"
-> height="3.5833333333333335in"}
+> ![](.//public/assets/images/md/image24.png){width="6.267716535433071in" height="3.5833333333333335in"}
 
-**Conclusiones:**
 
--   La representación detallada de las clases, atributos y métodos en el
-    > diseño del sistema proporciona una base sólida para el desarrollo
-    > y la implementación de la plataforma de intermediación entre
-    > técnicos y clientes. Este enfoque orientado a objetos permite una
-    > comprensión clara de la estructura del sistema y facilita la
-    > colaboración entre los miembros del equipo de desarrollo.
+5.2.2. Sprint 2  
+
+5.2.2.1.Sprint Planning 2
+
+|<a name="_zamllpsp8jqp"></a>**Sprint #**|Sprint 2|
+| :- | :- |
+|**Sprint Planning Backlog**||
+|**Date**|25/09/2023|
+|**Time**|10:00 horas (GMT -5)|
+|**Location**|Modalidad remota a través de plataforma Discord|
+|**Prepared by**|Jarama, Fiorella|
+|**Attendees (to planning meeting)**|Todos los miembros de FastServices|
+|**Sprint n - 2 Review Summary**|Se desarrolló algunas funcionalidades del sitio web de *FastService* usando el framework Vue, CSS y Tailwind|
+|**Sprint n - 2 Retrospective Summary**|La implementación de las funcionalidades de la página web se ha realizado con el framework TailwindCSS. |
+|**Sprint Goal and User Stories**||
+|**Sprint 2 Velocity**|5|
+|**Sum of Story Points**|17|
+
+5.2.2.2.Sprint Backlog 2.
+
+![Una imagen](public/assets/images/md/Aspose.Words.e8315f9a-c8ad-4781-a21d-4408a75ad8b2.003.png)
+
+5.2.2.3.Development Evidence for Sprint Review
+
+<table><tr><th colspan="1" valign="top">Repository </th><th colspan="1" valign="top">Branch </th><th colspan="1" valign="top">Commit Id </th><th colspan="1" valign="top">Commit Message Body </th><th colspan="1" valign="top">Committed on (Date)</th></tr>
+<tr><td colspan="1" rowspan="10" valign="top">FastService</td><td colspan="1" rowspan="10" valign="top">developer</td><td colspan="1" valign="top">1372adf12b81c80225561ef0a744975b7e1c626e</td><td colspan="1" valign="top">chore: Install dependencies</td><td colspan="1" valign="top">22/09/2023</td></tr>
+<tr><td colspan="1" valign="top">eec13de488c1da25ef2c183897074460c1d972f4</td><td colspan="1" valign="top">feat: tailwind.css added</td><td colspan="1" valign="top">22/09/2023</td></tr>
+<tr><td colspan="1" valign="top">b29ade8dea5c303f3d602f816e4ffdb50e77b11a</td><td colspan="1" valign="top">feat: tailwind.css added</td><td colspan="1" valign="top">24/09/2023</td></tr>
+<tr><td colspan="1" valign="top">04e50525060ed9acb90aef8bf2b54c10c1dfc16b</td><td colspan="1" valign="top">feat: implement route</td><td colspan="1" valign="top">24/09/2023</td></tr>
+<tr><td colspan="1" valign="top">80c5e66f6ff24c4deed5d79b85f6ff1a4a7534c3</td><td colspan="1" valign="top">feat: asideComponent</td><td colspan="1" valign="top">24/09/2023</td></tr>
+<tr><td colspan="1" valign="top">5b79dd13288f0047a3d9c6457bfad962965f6879</td><td colspan="1" valign="top">feat: Added login</td><td colspan="1" valign="top">25/09/2023</td></tr>
+<tr><td colspan="1" valign="top">c5f7ffcd62fa01790cb7659c5b743ff1317aebac</td><td colspan="1" valign="top">fix: Fixed bugs in asideComponent</td><td colspan="1" valign="top">25/09/2023</td></tr>
+<tr><td colspan="1" valign="top">1e3546258782256d825fc35e0f4cb2fb96681b12</td><td colspan="1" valign="top">feat: Create a navbar</td><td colspan="1" valign="top">25/09/2023</td></tr>
+<tr><td colspan="1" valign="top">9e8d6b8f5f29451c4139e4a0a165e607af9a0083</td><td colspan="1" valign="top">Feat: Create favorites experts page</td><td colspan="1" valign="top">26/09/2023</td></tr>
+<tr><td colspan="1" valign="top">3272adf162b81c80225561ef0a744975b7e1626e</td><td colspan="1" valign="top">feat: Merge develop into main and tag as v1.0.1</td><td colspan="1" valign="top">30/09/2023</td></tr>
+</table>
+
+5.2.2.4.Testing Suite Evidence for Sprint Review
+
+En el transcurso del segundo sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.
+
+5.2.2.5.Execution Evidence for Sprint Review
+
+![Interfaz de usuario gráfica, Sitio webescripción generada automáticamente](public/assets/images/md/Aspose.Words.e8315f9a-c8ad-4781-a21d-4408a75ad8b2.004.png)
+
+![Interfaz de usuario gráfica, Aplicación, Teamsescripción generada automáticamente](public/assets/images/md/Aspose.Words.e8315f9a-c8ad-4781-a21d-4408a75ad8b2.005.png)
+
+![Interfaz de usuario gráfica, Aplicaciónescripción generada automáticamente](public/assets/images/md/Aspose.Words.e8315f9a-c8ad-4781-a21d-4408a75ad8b2.006.png)
+
+![Interfaz de usuario gráfica, Aplicaciónescripción generada automáticamente](public/assets/images/md/Aspose.Words.e8315f9a-c8ad-4781-a21d-4408a75ad8b2.007.png)
+
+![Interfaz de usuario gráfica, Aplicación, Sitio webescripción generada automáticamente](public/assets/images/md/Aspose.Words.e8315f9a-c8ad-4781-a21d-4408a75ad8b2.008.png)
+
+![Interfaz de usuario gráfica, Aplicaciónescripción generada automáticamente](public/assets/images/md/Aspose.Words.e8315f9a-c8ad-4781-a21d-4408a75ad8b2.009.png)
+
+5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+Se usó el servicio web de API Mocha es una popular biblioteca de pruebas para JavaScript que se utiliza comúnmente para realizar pruebas unitarias y de integración en aplicaciones web y APIs. De la misma manera se uso Firebase Hosting, que es un servicio de Google. Firebase que permite hospedar y desplegar sitios web estáticos de manera sencilla. Puedes vincular un repositorio Git (como GitHub).
+
+![Imagen que contiene dibujo, platoDescripción generada automáticamente](public/assets/images/md/Aspose.Words.e8315f9a-c8ad-4781-a21d-4408a75ad8b2.010.png)
+
+![FormaDescripción generada automáticamente con confianza media](public/assets/images/md/Aspose.Words.e8315f9a-c8ad-4781-a21d-4408a75ad8b2.011.png)
+
+5.2.2.7.Software Deployment Evidence for Sprint Review
+
+
+
+
+5.2.2.8.Team Collaboration Insights during Sprint.
+
+![Captura de pantalla de un celularDescripción generada automáticamente](public/assets/images/md/Aspose.Words.e8315f9a-c8ad-4781-a21d-4408a75ad8b2.018.png)
+
+<a name="_rjb35frewrra"></a>**Conclusiones:**
+
+- <a name="_z9lok62okyug"></a>La representación detallada de las clases, atributos y métodos en el diseño del sistema proporciona una base sólida para el desarrollo y la implementación de la plataforma de intermediación entre técnicos y clientes. Este enfoque orientado a objetos permite una comprensión clara de la estructura del sistema y facilita la colaboración entre los miembros del equipo de desarrollo.
+- <a name="_wtvopcf7copp"></a>Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de FastService. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión. 
+- <a name="_r25mbxic2ci7"></a>Se optó por utilizar herramientas y servicios externos que nos ayudaron a simplificar el proceso de desarrollo y despliegue. En particular, incorporamos TailwindCSS para la maquetación y los estilos, y Firebase para el despliegue de la aplicación. Esta elección de tecnologías y servicios externos demuestra nuestra búsqueda de soluciones efectivas y eficientes para alcanzar nuestros objetivos.
 
 **Anexos:**
 
--   Landing Page Mockup
+- <a name="_i5ppb5zalug6"></a>Landing Page Mockup
 
-> [[https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0]{.underline}](https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0)
+<https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0> 
 
--   Landing Page Wireframe
+- <a name="_dnlj0p7roi2x"></a>Landing Page Wireframe
 
-> [[https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0]{.underline}](https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0)
+<https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0> 
 
--   Web Applications Prototype:
-    > [[https://www.figma.com/proto/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=33-2934&t=p2laNPzz7ssN9o7P-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=33%3A2934&show-proto-sidebar=1&mode=design]{.underline}](https://www.figma.com/proto/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=33-2934&t=p2laNPzz7ssN9o7P-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=33%3A2934&show-proto-sidebar=1&mode=design)
+- <a name="_rmpaylamyld4"></a>Web Applications Prototype: <https://www.figma.com/proto/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=33-2934&t=p2laNPzz7ssN9o7P-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=33%3A2934&show-proto-sidebar=1&mode=design> 
+- <a name="_4q3qqv8cy9to"></a>Web Applications User Flow Diagrams: 
 
--   Web Applications User Flow Diagrams:
+<a name="_nmcxnlivf72j"></a><https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0> 
 
-> [[https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0]{.underline}](https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0)
+- <a name="_ku1dtyysw3gr"></a>Class diagram: [https://lucid.app/lucidchart/adf5546f-c70d-43bc-bb93-02ed74639ada/edit?invitationId=inv_6dd2fa91-a62c-447b-b9ee-2611d8fa846b&page=0_0#](https://lucid.app/lucidchart/adf5546f-c70d-43bc-bb93-02ed74639ada/edit?invitationId=inv_6dd2fa91-a62c-447b-b9ee-2611d8fa846b&page=0_0) 
+- <a name="_126wn8opljga"></a>Database diagram: <https://lucid.app/publicSegments/view/a6a2cfdd-ad30-475c-ab71-ea87971d7293/image.png> 
+- <a name="_u6erp0mcx45f"></a>Fastservices Organization: <https://github.com/AplicacionesWeb-GRUPO1> 
+- <a name="_jzjprzy896az"></a>Fastservices Landing Page Repository: <https://github.com/AplicacionesWeb-GRUPO1/LandingPage> 
+- <a name="_wed84gvtj65t"></a>Fastservices Landing Page deployed: <https://main--darling-stroopwafel-93011e.netlify.app> 
+- <a name="_ewgxbk5cvaz7"></a>Fastservices Acceptance Tests: <https://github.com/AplicacionesWeb-GRUPO1/features_FastService> 
+- <a name="_a79qpnmy8hli"></a>Link de Trello a Sprint Backlog y Sprint planing: <https://trello.com/b/WUhP9e2p/sprintbacklog>
+- <a name="_s8qvzxjqyukx"></a>Video about the product: <https://youtu.be/uLk-twOv8J8> 
+- <a name="_h52tuarmqvuw"></a>Exposiciones:
+  - <a name="_ltexd5nai4hn"></a>TB1: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120430_upc_edu_pe/EY5BKtPuKWdOomOFozHteOgBQ3mViF8Q1QEK4Oa_WQ0F7A?e=QX5ol4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19> 
+  - <a name="_4o0byyal4lnm"></a>TP: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120430_upc_edu_pe/EfpNfP2lW-lKhWAVaiXMH0kBALUHRd4jbW4XBDORrVLuIg?e=fvPSTr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19> 
+  - Frontend Web Applications : https://fastservice-e75c1.web.app/
+  - GitHub: https://github.com/AplicacionesWeb-GRUPO1/fastservice
+  
+<a name="_zgmihx1r5l1x"></a>**Bibliografía:**
 
--   Class diagram:
-    > https://lucid.app/lucidchart/adf5546f-c70d-43bc-bb93-02ed74639ada/edit?invitationId=inv_6dd2fa91-a62c-447b-b9ee-2611d8fa846b&page=0_0#
 
--   Database diagram:
-    > [[https://lucid.app/publicSegments/view/a6a2cfdd-ad30-475c-ab71-ea87971d7293//public/assets/images/md/image.png]{.underline}](https://lucid.app/publicSegments/view/a6a2cfdd-ad30-475c-ab71-ea87971d7293//public/assets/images/md/image.png)
+- Compañía peruana de estudios de mercados y opinión pública (c.p.i) (2018). Tendencia de reparadores a domicilio. Recuperado de:<http://cpi.pe/images/upload/paginaweb/archivo/26/mr_mascotas_201808.pdf>  [Consulta: 01 de Setiembre del 2023]
+- Congreso de la República (2016). Presencia de técnicos en el hogar. Lima: Congreso de la República. Recuperado de <https://www.congreso.gob.pe/carpetatematica/2018/carpeta_249/estadisticas/>   
 
--   Fastservices Organization:
-    > [[https://github.com/AplicacionesWeb-GRUPO1]{.underline}](https://github.com/AplicacionesWeb-GRUPO1)
-
--   Fastservices Landing Page Repository:
-    > [[https://github.com/AplicacionesWeb-GRUPO1/LandingPage]{.underline}](https://github.com/AplicacionesWeb-GRUPO1/LandingPage)
-
--   Fastservices Landing Page deployed:
-    > [[https://main\--darling-stroopwafel-93011e.netlify.app]{.underline}](https://main--darling-stroopwafel-93011e.netlify.app)
-
--   Fastservices Acceptance Tests:
-    > [[https://github.com/AplicacionesWeb-GRUPO1/features_FastService]{.underline}](https://github.com/AplicacionesWeb-GRUPO1/features_FastService)
-
--   Link de Trello a Sprint Backlog y Sprint planing:
-    > [[https://trello.com/b/WUhP9e2p/sprintbacklog]{.underline}](https://trello.com/b/WUhP9e2p/sprintbacklog)
-
--   Video about the product:
-    > [[https://youtu.be/uLk-twOv8J8]{.underline}](https://youtu.be/uLk-twOv8J8)
-
--   Exposiciones:
-
-    -   TB1:
-        > [[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120430_upc_edu_pe/EY5BKtPuKWdOomOFozHteOgBQ3mViF8Q1QEK4Oa_WQ0F7A?e=QX5ol4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19]{.underline}](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120430_upc_edu_pe/EY5BKtPuKWdOomOFozHteOgBQ3mViF8Q1QEK4Oa_WQ0F7A?e=QX5ol4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-
-**Bibliografía:**
-
-> • Compañía peruana de estudios de mercados y opinión pública (c.p.i)
-> (2018). Tendencia de reparadores a domicilio. Recuperado
-> de:[[http://cpi.pe//public/assets/images/md/images/upload/paginaweb/archivo/26/mr_mascotas_201808.pdf]{.underline}](http://cpi.pe//public/assets/images/md/images/upload/paginaweb/archivo/26/mr_mascotas_201808.pdf)
-> \[Consulta: 01 de Setiembre del 2023\]
->
-> • Congreso de la República (2016). Presencia de técnicos en el hogar.
-> Lima: Congreso de la República. Recuperado de
-> [[https://www.congreso.gob.pe/carpetatematica/2018/carpeta_249/estadisticas/]{.underline}](https://www.congreso.gob.pe/carpetatematica/2018/carpeta_249/estadisticas/)
->
-> \[Consulta: 03 de Setiembre del 2023\]
+[Consulta: 03 de Setiembre del 2023]
