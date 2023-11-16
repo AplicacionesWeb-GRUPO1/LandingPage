@@ -13,9 +13,9 @@
 
 Juan Carlos TInoco Licas
 
-**TP**
+**TF**
 
-\-\-\--
+\-\-\-
 
 FASTSERVICE
 
@@ -25,10 +25,11 @@ FASTSERVICE
 |u202120841|Achamizo Huamani, Jean Carlos|
 |U202120418|Jarama Peñaloza, Fiorella|
 |U202120430|Lucas Coronel, Nadia Alessandra|
-|U202022018|Torres Alva, Alejandro|
 |U202120379|Trujillo Acosta, Enzo Paolo|
 
-Agosto 2023
+\-\-\-
+
+Noviembre 2023
 
 </center>
 
@@ -126,13 +127,15 @@ Agosto 2023
 
 **Registro de Versiones**
 
+---
 
-|**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
-| :- | :- | :- | :- |
-|TB1|Sábado 8 de Setiembre|<p>- Jarama Peñaloza, Fiorella</p><p>-Lucas Coronel, Nadia Alessandra</p><p>-Torres Alva, Alejandro<br>- Achamizo Huamani, Jean</p><p>- Trujillo Acosta, Enzo Paolo</p>|<p>Se han incluido los capítulos:</p><p>Capítulo I: Introducción</p><p>Capítulo II: Requirements</p><p>Elicitation & Analysis,</p><p>Capítulo III: Requirements</p><p>Specification</p><p>Capítulo IV: Product Design</p><p>Avance del Capítulo V: Product</p><p>Implementation, Validation &</p><p>Deployment</p><p>Avance de Conclusiones,</p><p>Bibliografía y Anexos</p>|
-|TP1|Viernes 29 de Setiembre|<p>- Jarama Peñaloza, Fiorella</p><p>- Lucas Coronel, Nadia Alessandra</p><p>- Torres Alva, Alejandro<br>- Achamizo Huamani, Jean</p><p>- Trujillo Acosta, Enzo Paolo</p>|<p>Capítulo V: Product</p><p>Implementation, Validation &</p><p>Deployment</p><p>Avance de Conclusiones,</p><p>Bibliografía y Anexos</p>|
-|TB2||||
-|TF||||
+| Versión | Fecha                | Autor                                                                                                                                                                                   | Descripción de modificación                                                                                                                             |
+| ------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| TB1     | Sábado 8 de Setiembre | - Jarama Peñaloza, Fiorella<br /> - Lucas Coronel, Nadia Alessandra<br /> - Torres Alva, Alejandro<br /> - Achamizo Huamani, Jean<br /> - Trujillo Acosta, Enzo Paolo | Se han incluido los capítulos:<br /> - Capítulo I: Introducción<br /> - Capítulo II: Requirements Elicitation & Analysis,<br /> - Capítulo III: Requirements Specification<br /> - Capítulo IV: Product Design<br /> Avance del Capítulo V: Product Implementation, Validation & Deployment<br /> Avance de Conclusiones, Bibliografía y Anexos |
+| TP1     | Viernes 29 de Setiembre | - Jarama Peñaloza, Fiorella<br /> - Lucas Coronel, Nadia Alessandra<br /> - Torres Alva, Alejandro<br /> - Achamizo Huamani, Jean<br /> - Trujillo Acosta, Enzo Paolo | Capítulo V: Product Implementation, Validation & Deployment<br /> Avance de Conclusiones, Bibliografía y Anexos |
+| TB      | Sábado 4 de Noviembre  | - Jarama Peñaloza, Fiorella<br /> - Lucas Coronel, Nadia Alessandra<br /> - Achamizo Huamani, Jean<br /> - Trujillo Acosta, Enzo Paolo | Capítulo V: Product Implementation, Validation & Deployment,<br /> Registro de Entrevistas,<br /> Evidencias de Heurísticas<br /> Avance de Conclusiones, Bibliografía y Anexos |
+| TF      |                      |                                                                                                                                                                                         |                                                                                                                                                        |
+
 
 
 
@@ -141,8 +144,8 @@ Agosto 2023
 
 |**Criterio específico**|**Acciones Realizadas**|**Conclusiones**|
 | :- | :- | :- |
-|<p>Participa en equipos </p><p>multidisciplinarios con eficacia, </p><p>eficiencia y objetividad, en el </p><p>marco de un proyecto en </p><p>soluciones de ingeniería de </p><p>software.</p>|<p>**Jarama Peñaloza, Fiorella**</p><p>**TB1:** Durante este proceso, se puso un enfoque particular en la formulación de declaraciones de hipótesis de Lean UX. Además, se llevaron a cabo investigaciones detalladas y pruebas de concepto para respaldar estas hipótesis, lo que ayudó a orientar de manera efectiva el desarrollo del producto y a tomar decisiones informadas en todo el ciclo de diseño y desarrollo.</p><p></p><p>**TP1:** En esta entrega se realizó el desarrollo de algunas de las funcionalidades del Frontend Web Application, así como la documentación que conlleva.</p><p></p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:** </p><p>Se contribuyó principalmente en la identificación de los antecedentes y la identificación profunda de la problemática. Durante este proceso, se tuvo un enfoque en la colaboración efectiva y la aplicación de las mejores prácticas de ingeniería de software para lograr el éxito del producto.</p><p></p><p>**TP1:**</p><p>Se realizaron múltiples reuniones durante las cuales trabajamos en la creación de la interfaz web frontal de nuestro proyecto, incorporando diversas características destinadas a mejorar la experiencia de navegación de nuestros usuarios. Estas adiciones se diseñaron con el propósito de proporcionar funcionalidades adicionales en la página que simplifiquen su uso.</p><p></p><p>**Torres Alva, Alejandro**</p><p>**TB1:**</p><p>Se realizaron reuniones donde llegamos a la conclusión de crear un aplicativo que pueda ofrecer un intermediario entre trabajadores de servicios generales con los clientes. Así, ofreciendo oportunidades y solucionando los problemas para ambos casos.</p><p></p><p>**TP1:** Se realizaron reuniones donde desarrollamos el front end web de nuestro trabajo, así se agregaron varias funcionalidades a nuestro trabajo para que nuestros usuarios tengan funcionalidades en la página que faciliten su navegación.</p><p></p><p>**Achamizo Huamani, Jean**</p><p>**TB1:**</p><p>Se ha reconocido la falta de una plataforma centralizada que conecte a trabajadores técnicos y clientes de manera efectiva, limitando las oportunidades laborales y el acceso a servicios de reparación confiables en el hogar en Perú.</p><p></p><p>**TP1:** </p><p>Se desarrolló todo lo acordado en las reuniones, demostrando el compromiso y la participación del equipo.</p><p></p><p>**Trujillo Acosta, Enzo Paolo**</p><p>**TB1:**</p><p>Junto con el equipo realizamos diferentes reuniones que permiten organizar de manera eficiente la solución propuesta.</p><p></p><p>**TP1:** </p><p>Junto con el equipo se repartieron las labores del sprint 2 y se organizaron diferentes reuniones para el despliegue e implementación del “fronted”.</p>|<p>**TB1:**</p><p>Se establecieron bases sólidas en términos de requisitos, diseño, desarrollo y pruebas, lo que ha fortalecido nuestra confianza en el futuro del producto. </p><p></p><p>**TP1:** Se optó por utilizar herramientas y servicios externos que nos ayudaron a simplificar el proceso de desarrollo y despliegue.</p><p></p><p>**TB2:**</p><p></p><p>**TF:**</p>|
-|<p>*Conoce al menos un sector* </p><p>*empresarial o dominio de* </p><p>*aplicación de soluciones de* </p><p>*software.*</p>|<p>**Jarama Peñaloza, Fiorella**</p><p>**TB1:**En esta fase de entrega, se focalizó en abordar la problemática a través del desarrollo de un prototipo, con el objetivo de probar y validar posibles soluciones antes de la implementación definitiva.</p><p></p><p>**TP1:** En esta entrega se enfocó en las funcionalidades de nuestra aplicación, tomando en cuenta la investigación y el análisis previamente hecho.</p><p></p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:**</p><p>En esta entrega se adentró en el dominio de aplicaciones de soluciones de software orientadas a la búsqueda y conexión de expertos técnicos. A través de este enfoque, se ganó un entendimiento sólido de las necesidades y desafíos específicos de este sector empresarial.</p><p>**TP1:**</p><p>Durante esta etapa de entrega, pusimos nuestro enfoque en enfrentar el desafío mediante la creación de un prototipo. Nuestra meta principal era someter a prueba y validar posibles soluciones antes de llevar a cabo la implementación definitiva.</p><p></p><p>**Torres Alva, Alejandro**</p><p>**TB1:**</p><p>Se realizó una investigación para ver sobre qué dominios poner en el trabajo y para el software deducimos que sería uno que nos ayude a ser un intermediario entre nuestros clientes y trabajadores , y trabajadores con proveedores.</p><p>**TP1:**</p><p>Sobre este entregable se realizó el trabajo mediante el dominio de aplicaciones web dando funcionalidades para que nuestros usuarios estén complacidos con el app.</p><p></p><p>**Achamizo Huamani, Jean** </p><p>**TB1:**<br>Se investigó sobre el desarrollo de un dominio de negocio e implementar un software de solución para desarrollar nuestra startup.</p><p>**TP1:**<br>Durante el trabajo hemos investigado distintos dominios para el desarrollo de nuestro software y así mismo acoplarlo para desarrollarlo de nuestros dominios.</p><p></p><p>**Trujillo Acosta, Enzo Paolo**</p><p>**TB1:**</p><p>Junto con el equipo, en esta entrega realizamos el "UI/UX design" que es un sector empresarial relacionado con el desarrollo de aplicaciones móviles y sitios web.</p><p>**TP1:**</p><p>Durante el desarrollo hemos usado herramientas como Vue, las cuales son muy comunes en el sector empresarial.</p>|<p>**TB1:*** Se han consolidado los fundamentos en cuanto a exigencias, creación, diseño y evaluaciones, lo que ha consolidado nuestra seguridad en lo que depara el porvenir del producto.</p><p></p><p>**TP1:** Esta concentración en el desarrollo frontend indica que planificamos y coordinamos nuestras tareas de manera efectiva para alcanzar los objetivos del sprint.</p><p></p><p>**TB2:**</p><p></p><p>**TF:**</p>|
+|<p>Participa en equipos </p><p>multidisciplinarios con eficacia, </p><p>eficiencia y objetividad, en el </p><p>marco de un proyecto en </p><p>soluciones de ingeniería de </p><p>software.</p>|<p>**Jarama Peñaloza, Fiorella**</p><p>**TB1:** Durante este proceso, se puso un enfoque particular en la formulación de declaraciones de hipótesis de Lean UX. Además, se llevaron a cabo investigaciones detalladas y pruebas de concepto para respaldar estas hipótesis, lo que ayudó a orientar de manera efectiva el desarrollo del producto y a tomar decisiones informadas en todo el ciclo de diseño y desarrollo.</p><p></p><p>**TP1:** En esta entrega se realizó el desarrollo de algunas de las funcionalidades del Frontend Web Application, así como la documentación que conlleva.</p><p></p><p>**TB2:**</p><p>Se contribuyó en la realización de pantallas del trabajo, además de contribuir en el análisis y búsqueda de soluciones con respecto al mismo.</p><p></p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:** </p><p>Se contribuyó principalmente en la identificación de los antecedentes y la identificación profunda de la problemática. Durante este proceso, se tuvo un enfoque en la colaboración efectiva y la aplicación de las mejores prácticas de ingeniería de software para lograr el éxito del producto.</p><p></p><p>**TP1:**</p><p>Se realizaron múltiples reuniones durante las cuales trabajamos en la creación de la interfaz web frontal de nuestro proyecto, incorporando diversas características destinadas a mejorar la experiencia de navegación de nuestros usuarios. Estas adiciones se diseñaron con el propósito de proporcionar funcionalidades adicionales en la página que simplifiquen su uso.</p><p></p><p>**TB2:**</p><p>Se aportó al desarrollo de las pantallas de trabajo y se desempeñó un papel fundamental en la exploración de soluciones relacionadas con el proyecto.</p><p></p><p>**Achamizo Huamani, Jean**</p><p>**TB1:**</p><p>Se ha reconocido la falta de una plataforma centralizada que conecte a trabajadores técnicos y clientes de manera efectiva, limitando las oportunidades laborales y el acceso a servicios de reparación confiables en el hogar en Perú.</p><p></p><p>**TP1:** </p><p>Se desarrolló todo lo acordado en las reuniones, demostrando el compromiso y la participación del equipo.</p><p></p><p>**TB2:**</p><p>Se contribuyó en la realización de pantallas del trabajo, además de contribuir en el análisis y búsqueda de soluciones con respecto al mismo.</p><p></p><p>**Trujillo Acosta, Enzo Paolo**</p><p>**TB1:**</p><p>Junto con el equipo realizamos diferentes reuniones que permiten organizar de manera eficiente la solución propuesta.</p><p></p><p>**TP1:** </p><p>Junto con el equipo se repartieron las labores del sprint 2 y se organizaron diferentes reuniones para el despliegue e implementación del “fronted”</p><p></p><p>**TB2:** </p><p>JJunto al equipo se corrigió los endpoint adecuados para el desarrollo del backend, manteniendo la uniformidad de la idea de negocio.</p>|<p>**TB1:**</p><p>Se establecieron bases sólidas en términos de requisitos, diseño, desarrollo y pruebas, lo que ha fortalecido nuestra confianza en el futuro del producto. </p><p></p><p>**TP1:** Se optó por utilizar herramientas y servicios externos que nos ayudaron a simplificar el proceso de desarrollo y despliegue.</p><p></p><p>**TB2:**</p><p></p><p>**TF:**</p>|
+|<p>*Conoce al menos un sector* </p><p>*empresarial o dominio de* </p><p>*aplicación de soluciones de* </p><p>*software.*</p>|<p>**Jarama Peñaloza, Fiorella**</p><p>**TB1:**</p><p>En esta fase de entrega, se focalizó en abordar la problemática a través del desarrollo de un prototipo, con el objetivo de probar y validar posibles soluciones antes de la implementación definitiva.</p><p></p><p>**TP1:** En esta entrega se enfocó en las funcionalidades de nuestra aplicación, tomando en cuenta la investigación y el análisis previamente hecho.</p><p></p><p>**TB2:**</p><p>Para esta entrega se terminó e han completado varias User Stories en el Sprint 3, que incluyen la implementación de pantallas cómo "ServicesPayment," "Notificaciones," "Home," y "Publicaciones." Además, el equipo ha trabajado en el desarrollo de la aplicación. Se ha seguido la metodología GitFlow para el control del flujo de trabajo y la colaboración efectiva. También se hicieron entrevistas y actualizaciones relevantes en el frontend.</p><p></p><p>**Lucas Coronel, Nadia Alessandra**</p><p>**TB1:**</p><p>En esta entrega se adentró en el dominio de aplicaciones de soluciones de software orientadas a la búsqueda y conexión de expertos técnicos. A través de este enfoque, se ganó un entendimiento sólido de las necesidades y desafíos específicos de este sector empresarial.</p><p>**TP1:**</p><p>Durante esta etapa de entrega, pusimos nuestro enfoque en enfrentar el desafío mediante la creación de un prototipo. Nuestra meta principal era someter a prueba y validar posibles soluciones antes de llevar a cabo la implementación definitiva.</p><p></p><p>**TB2:**</p><p>En este entregable, se abordaron y corrigieron los errores identificados, y se siguió avanzando en el desarrollo de las pantallas "Notifications" y "Services".</p><p></p><p>**Achamizo Huamani, Jean** </p><p>**TB1:**<br>Se investigó sobre el desarrollo de un dominio de negocio e implementar un software de solución para desarrollar nuestra startup.</p><p>**TP1:**<br>Durante el trabajo hemos investigado distintos dominios para el desarrollo de nuestro software y así mismo acoplarlo para desarrollarlo de nuestros dominios.</p><p></p><p>**TB2:**</p><p>Desarrollamos las reglas de negocio del dominio services para desarrollar el backend con los endpoints correspondientes.".</p><p></p><p>**Trujillo Acosta, Enzo Paolo**</p><p>**TB1:**</p><p>Junto con el equipo, en esta entrega realizamos el "UI/UX design" que es un sector empresarial relacionado con el desarrollo de aplicaciones móviles y sitios web.</p><p>**TP1:**</p><p>Durante el desarrollo hemos usado herramientas como Vue, las cuales son muy comunes en el sector empresarial.</p><p></p><p>**TB2:**</p><p>Durante el desarrollo del trabajo hemos obtenido conocimiento sobre las diferentes formas de despliegue y los servicios más conocidos que se usan en el mercado.".</p>|<p>**TB1:*** Se han consolidado los fundamentos en cuanto a exigencias, creación, diseño y evaluaciones, lo que ha consolidado nuestra seguridad en lo que depara el porvenir del producto.</p><p></p><p>**TP1:** Esta concentración en el desarrollo frontend indica que planificamos y coordinamos nuestras tareas de manera efectiva para alcanzar los objetivos del sprint.</p><p></p><p>**TB2:**</p><p></p><p>**TF:**</p>|
 
 
 # Capítulo I: Introducción
@@ -560,9 +563,9 @@ paso del tiempo y no tengamos caídas de usuarios.
 <table><tr><th colspan="6" valign="top"><i>Competivive analysis  landscape</i> </th></tr>
 <tr><td colspan="1" rowspan="2" valign="top">¿Por qué llevar a cabo este análisis? </td><td colspan="5" valign="top">Objetivo 1: Adquirir conocimiento acerca de las propuestas ofrecidas por nuestros competidores y obtener enseñanzas a partir de las áreas en las que presentan limitaciones.</td></tr>
 <tr><td colspan="5" valign="top">Objetivo 2: Identificar los puntos fuertes y las limitaciones de nuestros competidores con el fin de formular una estrategia competitiva sólida y efectiva.</td></tr>
-<tr><td colspan="2" valign="top">Competidores</td><td colspan="1" valign="top"><p><i>FastService</i></p><p>![Icono
+<tr><td colspan="2" valign="top">Competidores</td><td colspan="1" valign="top"><p><i>FastService</i></p><p>
 
-Descripción generada automáticamente]![](/public/assets/images/md/image2.png)</p></td><td colspan="1" valign="top"><p><i>Thumbtack</i></p><p>![Icono
+Descripción generada automáticamente]![](/public/assets/images/md/image2.png)</p></td><td colspan="1" valign="top"><p><i>Thumbtack</i></p><p>
 
 Descripción generada automáticamente]![](/public/assets/images/md/image1.png)</p></td><td colspan="1" valign="top"><p><i>HomeAdvisor</i></p><p>![](/public/assets/images/md/image110.png)</p><p></p></td><td colspan="1" valign="top"><p><i>RepairConnect</i></p><p>![Logotipo, nombre de la empresa
 
@@ -927,23 +930,25 @@ height="4.861111111111111in"}
 ![](.//public/assets/images/md/image64.png){width="6.267716535433071in"
 height="4.583333333333333in"}
 
-2.3.2. User Task Matrix.
+**2.3.2. User Task Matrix**
 
 > Claves: Siempre\|A veces\|Casi Nunca Alta\|Media\|Baja
 
-<table><tr><th colspan="1" rowspan="3" valign="top"><p></p><p><b>Descripción</b></p></th><th colspan="6" valign="top"><b>User Persona</b></th></tr>
-<tr><td colspan="2" valign="top"><b>Juan Perez -  Experto</b></td><td colspan="2" valign="top"><b>Maria Rodriguez</b></td><td colspan="2" valign="top"><b>Andrés Martinez</b></td></tr>
-<tr><td colspan="1" valign="top"><b>Frecuencia</b></td><td colspan="1" valign="top"><b>Importancia</b></td><td colspan="1" valign="top"><b>Frecuencia</b></td><td colspan="1" valign="top"><b>Importancia</b></td><td colspan="1" valign="top"><b>Frecuencia</b></td><td colspan="1" valign="top"><b>Importancia</b></td></tr>
-<tr><td colspan="1" valign="top">Buscar expertos</td><td colspan="1" valign="top">Media</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Media</td></tr>
-<tr><td colspan="1" valign="top">Solicitar servicio</td><td colspan="1" valign="top">Media</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Media</td></tr>
-<tr><td colspan="1" valign="top">Calificar servicio</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Media</td></tr>
-<tr><td colspan="1" valign="top">Gestionar ofertas</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td></tr>
-<tr><td colspan="1" valign="top">Planificar horarios</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Media</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Baja</td></tr>
-<tr><td colspan="1" valign="top">Comprar suministros </td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td></tr>
-<tr><td colspan="1" valign="top">Vender suministros</td><td colspan="1" valign="top">Media</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td></tr>
-<tr><td colspan="1" valign="top">Publicar servicios</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Baja</td><td colspan="1" valign="top">Alta</td><td colspan="1" valign="top">Alta</td></tr>
-</table>
-##  
+|                     |                          |                 |                     |                 |                     |                 |
+|---------------------|--------------------------|-----------------|---------------------|-----------------|---------------------|-----------------|
+| **Descripción**     | **User Persona**         |                 |                     |                 |                     |                 |
+|                     | **Juan Perez - Experto** |                 | **Maria Rodriguez** |                 | **Andrés Martinez** |                 |
+|                     | **Frecuencia**           | **Importancia** | **Frecuencia**      | **Importancia** | **Frecuencia**      | **Importancia** |
+| Buscar expertos     | Media                    | Baja            | Alta                | Alta            | Baja                | Media           |
+| Solicitar servicio  | Media                    | Baja            | Alta                | Alta            | Baja                | Media           |
+| Calificar servicio  | Alta                     | Alta            | Alta                | Alta            | Baja                | Media           |
+| Gestionar ofertas   | Alta                     | Alta            | Baja                | Baja            | Alta                | Alta            |
+| Planificar horarios | Alta                     | Alta            | Media               | Alta            | Baja                | Baja            |
+| Comprar suministros | Alta                     | Alta            | Baja                | Baja            | Alta                | Alta            |
+| Vender suministros  | Media                    | Baja            | Baja                | Baja            | Alta                | Alta            |
+| Publicar servicios  | Alta                     | Alta            | Baja                | Baja            | Alta                | Alta            |
+
+## 
 
 2.3.3. User Journey Mapping. (3 user persona)
 
@@ -1908,21 +1913,21 @@ height="3.638888888888889in"}
 > ![](.//public/assets/images/md/image101.png){width="6.621574803149606in"
 > height="3.244792213473316in"}
 >
-5.2.1.3. Development Evidence for Sprint Review.
 
+**5.2.1.3. Development Evidence for Sprint Review**
 
-
-<table><tr><th valign="top">Repository </th><th valign="top">Branch </th><th valign="top">Commit Id </th><th valign="top">Commit Message Body </th><th valign="top">Commited on (Date)</th></tr>
-<tr><td rowspan="9" valign="top"></td><td rowspan="9" valign="top">developer</td><td valign="top">bc3247b9bdb2324f97ed895e0b1150b6373a055c</td><td valign="top">feat: Maquetacion del proyecto</td><td valign="top">31/08/2023</td></tr>
-<tr><td valign="top">344374979355cab278ab8e9e4510af0719addea0a</td><td valign="top">Added a navigation bar</td><td valign="top">5/09/2023</td></tr>
-<tr><td valign="top">474979355cab278ab8e9e4510af0719addea0a04</td><td valign="top">feat: AboutUs section added</td><td valign="top">5/09/2023</td></tr>
-<tr><td valign="top">474979355cab278ab8e9e4510af0719addea0a04</td><td valign="top">fix: bug in AbouUs</td><td valign="top">5/09/2023</td></tr>
-<tr><td valign="top">7f7a0b0f80c672ab1ee04ce57ed13eea390aba1b</td><td valign="top">fix: Bugs in NavigationBar</td><td valign="top">5/09/2023</td></tr>
-<tr><td valign="top">ae0f6a340b2fbfbc6c9cc525f95d9428f0f1caa0</td><td valign="top">fix: Bugs in About</td><td valign="top">5/09/2023</td></tr>
-<tr><td valign="top">76d56a3ad45b6850e137a937fe48ac3fb672ca49</td><td valign="top">fix: Bugs in About</td><td valign="top">5/09/2023</td></tr>
-<tr><td valign="top">70eccf1eb29383a363888850819df25e9130d9ec</td><td valign="top">fix: Bugs in About</td><td valign="top">6/09/2023</td></tr>
-<tr><td valign="top">9f2c40e21254e8da06aba4507ed3014fd9deb0d8</td><td valign="top">feat: Added a register section</td><td valign="top">6/09/2023</td></tr>
-</table>
+|            |           |                                           |                                |                    |
+|------------|-----------|-------------------------------------------|--------------------------------|--------------------|
+| Repository | Branch    | Commit Id                                 | Commit Message Body            | Commited on (Date) |
+|            | developer | bc3247b9bdb2324f97ed895e0b1150b6373a055c  | feat: Maquetacion del proyecto | 31/08/2023         |
+|            |           | 344374979355cab278ab8e9e4510af0719addea0a | Added a navigation bar         | 5/09/2023          |
+|            |           | 474979355cab278ab8e9e4510af0719addea0a04  | feat: AboutUs section added    | 5/09/2023          |
+|            |           | 474979355cab278ab8e9e4510af0719addea0a04  | fix: bug in AbouUs             | 5/09/2023          |
+|            |           | 7f7a0b0f80c672ab1ee04ce57ed13eea390aba1b  | fix: Bugs in NavigationBar     | 5/09/2023          |
+|            |           | ae0f6a340b2fbfbc6c9cc525f95d9428f0f1caa0  | fix: Bugs in About             | 5/09/2023          |
+|            |           | 76d56a3ad45b6850e137a937fe48ac3fb672ca49  | fix: Bugs in About             | 5/09/2023          |
+|            |           | 70eccf1eb29383a363888850819df25e9130d9ec  | fix: Bugs in About             | 6/09/2023          |
+|            |           | 9f2c40e21254e8da06aba4507ed3014fd9deb0d8  | feat: Added a register section | 6/09/2023          |
 
 
 > 5.2.1.4. Testing Suite Evidence for Sprint Review.
@@ -2003,20 +2008,21 @@ height="3.638888888888889in"}
 
 ![Una imagen](public/assets/images/md/Aspose.Words.e8315f9a-c8ad-4781-a21d-4408a75ad8b2.003.png)
 
-5.2.2.3.Development Evidence for Sprint Review
+> **5.2.2.3.Development Evidence for Sprint Review**
 
-<table><tr><th colspan="1" valign="top">Repository </th><th colspan="1" valign="top">Branch </th><th colspan="1" valign="top">Commit Id </th><th colspan="1" valign="top">Commit Message Body </th><th colspan="1" valign="top">Committed on (Date)</th></tr>
-<tr><td colspan="1" rowspan="10" valign="top">FastService</td><td colspan="1" rowspan="10" valign="top">developer</td><td colspan="1" valign="top">1372adf12b81c80225561ef0a744975b7e1c626e</td><td colspan="1" valign="top">chore: Install dependencies</td><td colspan="1" valign="top">22/09/2023</td></tr>
-<tr><td colspan="1" valign="top">eec13de488c1da25ef2c183897074460c1d972f4</td><td colspan="1" valign="top">feat: tailwind.css added</td><td colspan="1" valign="top">22/09/2023</td></tr>
-<tr><td colspan="1" valign="top">b29ade8dea5c303f3d602f816e4ffdb50e77b11a</td><td colspan="1" valign="top">feat: tailwind.css added</td><td colspan="1" valign="top">24/09/2023</td></tr>
-<tr><td colspan="1" valign="top">04e50525060ed9acb90aef8bf2b54c10c1dfc16b</td><td colspan="1" valign="top">feat: implement route</td><td colspan="1" valign="top">24/09/2023</td></tr>
-<tr><td colspan="1" valign="top">80c5e66f6ff24c4deed5d79b85f6ff1a4a7534c3</td><td colspan="1" valign="top">feat: asideComponent</td><td colspan="1" valign="top">24/09/2023</td></tr>
-<tr><td colspan="1" valign="top">5b79dd13288f0047a3d9c6457bfad962965f6879</td><td colspan="1" valign="top">feat: Added login</td><td colspan="1" valign="top">25/09/2023</td></tr>
-<tr><td colspan="1" valign="top">c5f7ffcd62fa01790cb7659c5b743ff1317aebac</td><td colspan="1" valign="top">fix: Fixed bugs in asideComponent</td><td colspan="1" valign="top">25/09/2023</td></tr>
-<tr><td colspan="1" valign="top">1e3546258782256d825fc35e0f4cb2fb96681b12</td><td colspan="1" valign="top">feat: Create a navbar</td><td colspan="1" valign="top">25/09/2023</td></tr>
-<tr><td colspan="1" valign="top">9e8d6b8f5f29451c4139e4a0a165e607af9a0083</td><td colspan="1" valign="top">Feat: Create favorites experts page</td><td colspan="1" valign="top">26/09/2023</td></tr>
-<tr><td colspan="1" valign="top">3272adf162b81c80225561ef0a744975b7e1626e</td><td colspan="1" valign="top">feat: Merge develop into main and tag as v1.0.1</td><td colspan="1" valign="top">30/09/2023</td></tr>
-</table>
+|             |           |                                          |                                                 |                     |
+|-------------|-----------|------------------------------------------|-------------------------------------------------|---------------------|
+| Repository  | Branch    | Commit Id                                | Commit Message Body                             | Committed on (Date) |
+| FastService | developer | 1372adf12b81c80225561ef0a744975b7e1c626e | chore: Install dependencies                     | 22/09/2023          |
+|             |           | eec13de488c1da25ef2c183897074460c1d972f4 | feat: tailwind.css added                        | 22/09/2023          |
+|             |           | b29ade8dea5c303f3d602f816e4ffdb50e77b11a | feat: tailwind.css added                        | 24/09/2023          |
+|             |           | 04e50525060ed9acb90aef8bf2b54c10c1dfc16b | feat: implement route                           | 24/09/2023          |
+|             |           | 80c5e66f6ff24c4deed5d79b85f6ff1a4a7534c3 | feat: asideComponent                            | 24/09/2023          |
+|             |           | 5b79dd13288f0047a3d9c6457bfad962965f6879 | feat: Added login                               | 25/09/2023          |
+|             |           | c5f7ffcd62fa01790cb7659c5b743ff1317aebac | fix: Fixed bugs in asideComponent               | 25/09/2023          |
+|             |           | 1e3546258782256d825fc35e0f4cb2fb96681b12 | feat: Create a navbar                           | 25/09/2023          |
+|             |           | 9e8d6b8f5f29451c4139e4a0a165e607af9a0083 | Feat: Create favorites experts page             | 26/09/2023          |
+|             |           | 3272adf162b81c80225561ef0a744975b7e1626e | feat: Merge develop into main and tag as v1.0.1 | 30/09/2023          |
 
 5.2.2.4.Testing Suite Evidence for Sprint Review
 
@@ -2053,45 +2059,573 @@ Se usó el servicio web de API Mocha es una popular biblioteca de pruebas para J
 
 ![Captura de pantalla de un celularDescripción generada automáticamente](public/assets/images/md/Aspose.Words.e8315f9a-c8ad-4781-a21d-4408a75ad8b2.018.png)
 
-<a name="_rjb35frewrra"></a>**Conclusiones:**
+> **5.2.3. Sprint 3**
+>
+> **5.2.3.1.Spring Planning 3**
 
-- <a name="_z9lok62okyug"></a>La representación detallada de las clases, atributos y métodos en el diseño del sistema proporciona una base sólida para el desarrollo y la implementación de la plataforma de intermediación entre técnicos y clientes. Este enfoque orientado a objetos permite una comprensión clara de la estructura del sistema y facilita la colaboración entre los miembros del equipo de desarrollo.
-- <a name="_wtvopcf7copp"></a>Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de FastService. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión. 
-- <a name="_r25mbxic2ci7"></a>Se optó por utilizar herramientas y servicios externos que nos ayudaron a simplificar el proceso de desarrollo y despliegue. En particular, incorporamos TailwindCSS para la maquetación y los estilos, y Firebase para el despliegue de la aplicación. Esta elección de tecnologías y servicios externos demuestra nuestra búsqueda de soluciones efectivas y eficientes para alcanzar nuestros objetivos.
+|                                        |                                                                                                                                                                                      |
+|----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint \#**                          | Sprint 3                                                                                                                                                                             |
+| **Sprint Planning Backlog**            |                                                                                                                                                                                      |
+| **Date**                               | 03/11/2023                                                                                                                                                                           |
+| **Time**                               | 17:36 horas (GMT -5)                                                                                                                                                                 |
+| **Location**                           | Modalidad remota a través de plataforma Discord                                                                                                                                      |
+| **Prepared by**                        | Lucas Coronel, Nadia Alessandra                                                                                                                                                      |
+| **Attendees (to planning meeting)**    | Todos los miembros de FastServices                                                                                                                                                   |
+| **Sprint n - 3 Review Summary**        | Se desarrolló funcionalidades del sitio web de FastService usando el framework Vue, CSS y Tailwind. Además, se desarrolló el backend de la aplicación junto con el programa de Rider |
+| **Sprint n - 3 Retrospective Summary** | La implementación de las funcionalidades de la página web se ha realizado con la herramienta Rider                                                                                   |
+| **Sprint Goal and User Stories**       |                                                                                                                                                                                      |
+| **Sprint 2 Velocity**                  | 70                                                                                                                                                                                   |
+| **Sum of Story Points**                | 50                                                                                                                                                                                   |
+
+> **5.2.3.2.Sprint Backlog 3**
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 3%" />
+<col style="width: 8%" />
+<col style="width: 11%" />
+<col style="width: 6%" />
+<col style="width: 20%" />
+<col style="width: 18%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 9%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td colspan="2">Sprint #</td>
+<td colspan="7">Sprint 3</td>
+</tr>
+<tr class="even">
+<td colspan="3">User Story</td>
+<td colspan="6">Work-Item / Task</td>
+</tr>
+<tr class="odd">
+<td>Id</td>
+<td colspan="2">Title</td>
+<td>Id</td>
+<td>Title</td>
+<td>Description</td>
+<td><p>Estimation</p>
+<p>(Hours)</p></td>
+<td>Assigned To</td>
+<td><p>Status</p>
+<p>(To-do /</p>
+<p>InProcess /</p>
+<p>ToReview /</p>
+<p>Done)</p></td>
+</tr>
+<tr class="even">
+<td>US18</td>
+<td colspan="2">Pagar servicio</td>
+<td>US18-W1</td>
+<td>Pantalla de “ServicesPayment”</td>
+<td>Implementar pantalla de “ServicesPayment”</td>
+<td>8</td>
+<td>Enzo</td>
+<td>Done</td>
+</tr>
+<tr class="odd">
+<td>US16</td>
+<td colspan="2">Recibir Notificaciones y Recordatorios</td>
+<td>US07-W1</td>
+<td>Pantalla de “Notificaciones”</td>
+<td>Implementar un apartado de “Notificaciones”</td>
+<td>5</td>
+<td>Nadia</td>
+<td>Done</td>
+</tr>
+<tr class="even">
+<td colspan="2">US07</td>
+<td>Observar el Home</td>
+<td>US04-W2</td>
+<td>Pantalla de “Home”</td>
+<td>Implementar un apartado de “Home”</td>
+<td>3</td>
+<td>Fiorella</td>
+<td>Done</td>
+</tr>
+<tr class="odd">
+<td colspan="2">US12</td>
+<td>Publicar Oferta de Trabajo</td>
+<td>US04-W1</td>
+<td>Pantalla de “Publicaciones”</td>
+<td>Implementar un apartado de “Publicaciones”</td>
+<td>8</td>
+<td>Fiorella</td>
+<td>Done</td>
+</tr>
+</tbody>
+</table>
+
+![](public/assets/images/md//media/image10.png)
+
+> style="width:5.67779in;height:2.58365in" />
+>
+> 5.2.3.3.Development Evidence for Sprint Review
+
+|             |           |                                          |                                      |                     |
+|-------------|-----------|------------------------------------------|--------------------------------------|---------------------|
+| Repository  | Branch    | Commit Id                                | Commit Message Body                  | Committed on (Date) |
+| fastservice | Developer | 6c0c87c362d10ecfe2d9b0ff7a2fa0cceed272eb | fix: profile solve                   | Oct 21, 2023        |
+|             |           | c445c3ba8fb22a356f77f96856e84b33725c8588 | fix: routes                          | Oct 21, 2023        |
+|             |           | 3734893b6a5234a3c4b4b7b0ab24d2d5cc8690d1 | fix: routes                          | Oct 21, 2023        |
+|             |           | 5f8191f6dd933860309a07c852ce2ac2ec1a2963 | fixÃ: routes                         | Oct 21, 2023        |
+|             |           | 6c0c87c362d10ecfe2d9b0ff7a2fa0cceed272eb | fix: routes and SideBarComponent.vue | Oct 21, 2023        |
+|             |           | 844a6ee5e81a4ffe3a7d8ab54acda548dd999c4f | feat: added notifications page       | Oct 24, 2023        |
+|             |           | df3f20f3c16a916c640e915d96d87b0d1c4d7023 | feat:..                              | Oct 24, 2023        |
+|             |           | 57592df0b11730004b6f1f3bedb6d74f90287379 | feature: added services              | Oct 25, 2023        |
+|             |           | fb5fb3c1fe8371937a63515be61373bf4484cb56 | feat: added notifications            | Oct 25, 2023        |
+|             |           | 72aaf741cd9834ed43aba87cb40b138085044ed7 | fix: problems with json server       | Oct 25, 2023        |
+|             |           | 2a3e5a84a676a1c2b3a3a3b009d20a4f027be6d3 | Added: ClientPublicationPage         | Oct 26, 2023        |
+|             |           | 066df8f7cf58bf4543fdcbf0d3ac8b116fc25123 | Added: Client Home Page              | Oct 26, 2023        |
+|             |           | d0578c50d6907289bc13cf8f72fde32889ea42ed | feat: Page added                     | Nov 3, 2023         |
+
+|                 |           |                                          |                                                      |                         |
+|-----------------|-----------|------------------------------------------|------------------------------------------------------|-------------------------|
+| Repository      | Branch    | Commit Id                                | Commit Message Body                                  | Commited on (Date)      |
+| FastService.API | Developer | 4d275cd55ee84cd2419fc5ec7a758f25f99aa9dd | Agregar archivos de proyecto.                        | Commits on Oct 24, 2023 |
+|                 |           | b3b1c7c1e74472d956ca3379fa35b830d6b0673a | Agregar .gitattributes y .gitignore.                 | Commits on Oct 24, 2023 |
+|                 |           | d270b2aca0cb76f7d7ed28be10a5141f88e941f4 | feat; se agrego las entidades Published y Client     | Commits on Oct 25, 2023 |
+|                 |           | d270b2aca0cb76f7d7ed28be10a5141f88e941f4 | feat: add and implement complet Shared               | Commits on Oct 25, 2023 |
+|                 |           | 1ffb507928d18e82715b54611f60bb58abfe88a6 | feat: implement resource for Client and Publication  | Commits on Oct 25, 2023 |
+|                 |           | 72f48642c25b103a0b4d52a16aaf06494f37893b | feat: agreate dependeces and routes                  | Commits on Oct 25, 2023 |
+|                 |           | 60c83519f9619591ac62ab73db52ecde773fa9d9 | feat: feat impletement all dependences               | Commits on Oct 25, 2023 |
+|                 |           | d8fdfe08163eedb3165ae38ec2247863fc8acceb | feat: rama develop firts commit                      | Commits on Oct 25, 2023 |
+|                 |           | 86afa4bec4f2096038df8d07075c83220718cb64 | feat: add Repository client and puplications         | Commits on Oct 25, 2023 |
+|                 |           | 5c2f90672effaa36341b26208073abd2eba22217 | feat: implement appDbContext                         | Commits on Oct 25, 2023 |
+|                 |           | 60daa4d12af301674accf0a0c2c58db47a7614c6 | feat: implement repository -\> persistence           | Commits on Oct 25, 2023 |
+|                 |           | b49b90cb87ac35f394e4eaa66225a8a707d16674 | feat: implement program                              | Commits on Oct 25, 2023 |
+|                 |           | c87cc85eb25c78cf1b92a65aa7fd21623e330ef8 | feat: add mappin for Expert and Contract             | Oct 26, 2023            |
+|                 |           | 2bd4846d8a8daafb20cecd0a23e5db061774b560 | feat: add expert and contract -\> resource and model | Oct 26, 2023            |
+|                 |           | 125e45b79f88337d63cc2715ca9d7c7803f4139c | fix: bug CRUD publications                           | Oct 26, 2023            |
+|                 |           | 90ca7e539142670b321e6fc9a9fc627fcb9fb867 | feat: add crud of publication                        | Oct 26, 2023            |
+|                 |           | b069453ec6704724ffd79497e7b09124c7662115 | feat: publications controller                        | Oct 26, 2023            |
+|                 |           | deb26a257c3ddf7817943ce6f478e13097c5e662 | feat: publications service                           | Oct 26, 2023            |
+|                 |           | 7283fc94b72f620cfe4314bdf99fbfd4fd66eeec | docs: want files that are not used                   | Oct 26, 2023            |
+|                 |           | 782c48ae171a2f13869166ef39905e4579b7e9a1 | feat: add first service -\> client CRUD              | Oct 26, 2023            |
+
+**5.2.3.4.Testing Suite Evidence for Sprint Review.**
+
+En el alcance del sprint 3 no se han desarrollado avances en cuanto al
+testing de la aplicación.
+
+**5.2.3.5.Execution Evidence for Sprint Review.**
+
+![](public/assets/images/md//media/image11.png)
+
+![](public/assets/images/md//media/image12.png)
+
+![](public/assets/images/md//media/image13.png)
+
+![](public/assets/images/md//media/image14.png)
+
+![](public/assets/images/md//media/image15.png)
+
+FastServices landing page:
+
+FastServices app:
+
+FastServices API Repositorio de Github:
+
+**5.2.3.6.Services Documentation Evidence for Sprint Review.**
+
+|              |                      |                                                                         |
+|--------------|----------------------|----------------------------------------------------------------------------------------|
+| Entity       | Endpoint URL         |                             Swagger                                                                                 |
+| Clients      | /api/v1/clients      | ![](public/assets/images/md//media/image16.png) |               
+| Contract     | /api/v1/contract     | ![](public/assets/images/md//media/image17.png) |
+| Experts      | /api/v1/experts      | ![](public/assets/images/md//media/image18.png) |
+| Publications | /api/v1/publications | ![](public/assets/images/md//media/image18.png) |
+
+**5.2.3.7.Software Deployment Evidence for Sprint Review**
+
+Landing page:
+[<u>https://main--darling-stroopwafel-93011e.netlify.app</u>](https://main--darling-stroopwafel-93011e.netlify.app)
+
+Frontend Web App:
+[<u>https://fastservice-e75c1.web.app</u>](https://fastservice-e75c1.web.app)
+
+Backend Api:
+[<u>https://fastserviceapi20231103222242.azurewebsites.net</u>](https://fastserviceapi20231103222242.azurewebsites.net/api/v1/experts)
+
+Para acceder a los endpoints:
+[<u>https://fastserviceapi20231103222242.azurewebsites.net/api/v1/</u>](https://fastserviceapi20231103222242.azurewebsites.net/api/v1/experts)
+
+Ejemplo:
+[<u>https://fastserviceapi20231103222242.azurewebsites.net/api/v1/experts</u>](https://fastserviceapi20231103222242.azurewebsites.net/api/v1/experts)
+
+Para el despliegue de los servicios hemos decidido usar los servicios de
+Azure tanto para el Api como para la base de datos MySQL.  
+  
+Lo primero que haremos es crear la base de datos. Para ello iremos a la
+página principal de Azure luego de habernos registrado.
+
+![](public/assets/images/md//media/image20.png) 
+
+Buscaremos MYSQL y seleccionaremos la opción de “Servidores de Azure
+Database for MySQL”
+
+![](public/assets/images/md//media/image21.png) 
+
+Haremos clic en crear
+
+![](public/assets/images/md//media/image22.png) 
+
+Elegiremos “Servidor Flexible”
+
+![](public/assets/images/md//media/image23.png) 
+
+Colocamos un nombre a nuestro servidor, en nuestro caso “fastservices” y
+seleccionamos proyectos de desarrollo o aficiones.
+
+![](public/assets/images/md//media/image24.png) 
+
+Luego escribiremos el usuario y la contraseña con la que nos
+conectaremos a nuestra base de datos. **(Es importante recordar estos
+datos)**
+
+![](public/assets/images/md//media/image25,png) 
+
+Luego de dar clic al botón “Siguiente: Redes \>” ubicado en la parte
+inferior, agregaremos una regla al Firewall para permitir la conexión
+libre de otras redes.
+
+![](public/assets/images/md//media/image26.png) 
+
+Luego daremos clic en “Revisar y crear”, y por último en “Crear”
+
+![](public/assets/images/md//media/image27.png) 
+
+Luego iremos a la información de la base de datos y en “Parametros del
+servidor”, cambiaremos el estado de “require_secure_transport” en “OFF”
+y guardamos.
+
+![](public/assets/images/md//media/image28.png) 
+
+Crearemos la base de datos que vamos a usar y le asignaremos un nombre:
+
+![](public/assets/images/md//media/image29.png) 
+  
+Usando la herramienta Visual Studio Community abriremos el proyecto y
+nos dirigiremos al “appsettings.json “. Pondremos la información
+necesaria para la conexión, la base de datos, el usuario, la contraseña
+y el servidor (el cual se ubica en la información principal de la base
+de datos en Azure):
+
+![](public/assets/images/md//media/image30.png)  
+
+![](public/assets/images/md//media/image31.png) 
+  
+Luego daremos clic derecho a nuestro proyecto y nos dirigiremos a
+publicar (Deberemos tener la herramienta de Azure):
+
+![](public/assets/images/md//media/image32.png) 
+
+Ahora haremos clic en Azure:
+
+![](public/assets/images/md//media/image33.png) 
+
+Usaremos Azure App Service (Windows):
+
+![](public/assets/images/md//media/image34.png) 
+
+Crearemos un nuevo “App Services”:
+
+![](public/assets/images/md//media/image35.png) 
+
+Crearemos una nueva instancia:
+
+![](public/assets/images/md//media/image36.png) 
+
+![](public/assets/images/md//media/image37.png) 
+
+![](public/assets/images/md//media/image38.png) 
+
+Para consumir el Api iremos al portal de Azure:
+
+![](public/assets/images/md//media/image39.png) 
+
+Iremos al Api y seleccionaremos “CORS”
+
+![](public/assets/images/md//media/image40.png) 
+
+Escribimos “\*” y guardamos:
+
+![](public/assets/images/md//media/image41.png) 
+
+**5.2.3.8.Team Collaboration Insights during Sprint**
+
+Durante la ejecución de nuestro tercer Sprint, nos apoyamos en una
+variedad de herramientas para la colaboración efectiva y la gestión de
+nuestro flujo de trabajo. Hemos utilizado principalmente Visual Studio
+Code, Web Storming y IntelliJ IDEA Ultimate para la realización de los
+commits y el seguimiento del proceso de desarrollo siguiendo la
+metodología GitFlow.
+
+**Herramientas Utilizadas:**
+
+- Visual Studio
+
+- Web Storming
+
+- Rider
+
+- IntelliJ IDEA Ultimate
+
+**GitFlow y Colaboración:**
+
+Hemos establecido un repositorio en GitHub, donde los integrantes del
+equipo han trabajado en diferentes ramas según la metodología GitFlow.
+Los commits, push y merge se realizaron de manera organizada, siguiendo
+las prácticas recomendadas en el desarrollo colaborativo. Esto ha
+permitido un control preciso del flujo de trabajo y una integración
+fluida de los cambios.
+
+![](public/assets/images/md//media/image42.png) 
+
+![](public/assets/images/md//media/image43.png) 
+
+**5.3. Validation Interviews.**
+
+**5.3.1. Diseño de entrevistas**.
+
+1.  ¿Qué te parece la facilidad de uso de la página para encontrar
+    servicios técnicos?
+
+2.  ¿Encuentras la información que necesitas de manera clara y concisa?
+
+3.  ¿Crees que la navegación por la página es intuitiva?
+
+4.  ¿Qué tan sencillo es contactar a un técnico?
+
+5.  ¿La información sobre el proceso de contratación es clara?
+
+6.  ¿Encuentras que los métodos de pago son variados y seguros?
+
+7.  ¿El diseño general de la página te resulta atractivo?
+
+8.  ¿La disposición y organización de la información es agradable a la
+    vista?
+
+9.  ¿Te sientes cómodo al usar la página en términos de colores,
+    tipografía y espacios?
+
+10. En una escala del 1 al 10, ¿cómo calificarías tu experiencia
+    general?
+
+11. ¿Qué aspectos crees que podrían mejorarse para facilitar la búsqueda
+    de servicios técnicos?
+
+12. ¿Qué funcionalidades agregarías para mejorar la experiencia?
+
+**5.3.2. Registro de Entrevistas.**
+
+**Entrevista N 1:**
+
+**Entrevistador:** Fiorella Jarama 
+
+**Entrevistado:** Ariana Vargas
+
+**Link:
+[<u>https://youtu.be/w84kReQoEPo</u>](https://youtu.be/w84kReQoEPo) **
+
+![](public/assets/images/md//media/image44.png) 
+
+**Análisis de Entrevista:** La entrevista destaca una experiencia
+positiva del usuario en la página de FastService, donde se elogian la
+facilidad de uso, la claridad de la información y la navegación
+intuitiva. El usuario encuentra sencillo el contacto con técnicos y la
+información sobre el proceso de contratación, además de considerar
+seguros los métodos de pago. El diseño general, la organización de la
+información y la comodidad en términos de colores y tipografía son
+atractivos, lo que se refleja en una calificación general de 9 en una
+escala del 1 al 10. Las sugerencias para mejorar incluyen la
+incorporación de un filtro por ubicación geográfica, la adición de una
+función de chat en vivo y la inclusión de reseñas de usuarios para
+enriquecer la experiencia del usuario en la plataforma.
+
+**Entrevista N 2:**
+
+**Entrevistador:** Nadia Lucas
+
+**Entrevistado:** Nayeli Chavez
+
+**Link:
+[<u>https://youtu.be/BIoP8QAlirM</u>](https://youtu.be/BIoP8QAlirM) **
+
+![](public/assets/images/md//media/image45.png) 
+
+**Análisis de Entrevista:** La entrevista a Nayeli Chávez ofreció una
+visión positiva de la experiencia del usuario en la plataforma Fast
+Service. Los aspectos elogiados incluyen usabilidad, claridad de la
+información y diseño, mientras que las sugerencias para mejoras apuntan
+a la personalización, la comunicación en tiempo real y la
+retroalimentación de otros usuarios. Estos comentarios proporcionan
+pautas valiosas para el desarrollo y la mejora continua de la plataforma
+con el objetivo de mantener y aumentar la satisfacción de los usuarios.
+
+**5.3.3. Evaluaciones según heurísticas**
+
+En base a la información recopilada en las entrevistas a los usuarios,
+se llevaron a cabo evaluaciones según las siguientes heurísticas:
+
+- **Usabilidad**: Los usuarios elogiaron la facilidad de uso de la
+  plataforma Fast Service, destacando una navegación intuitiva y la
+  claridad de la información. Esto indica que la plataforma cumple con
+  la heurística de usabilidad, proporcionando una experiencia amigable
+  para los usuarios.
+
+- **Diseño y Estética:** El diseño general, la organización de la
+  información y la comodidad en términos de colores y tipografía fueron
+  elogiados por los usuarios. Esto sugiere que la plataforma cumple con
+  la heurística de diseño y estética al proporcionar una experiencia
+  visualmente atractiva.
+
+- **Comunicación:** Los usuarios mencionaron la facilidad de contacto
+  con técnicos y la información sobre el proceso de contratación. Sin
+  embargo, también sugirieron la incorporación de una función de chat en
+  vivo para una comunicación en tiempo real. Esto sugiere que la
+  plataforma podría mejorar su cumplimiento de la heurística de
+  comunicación.
+
+- **Seguridad:** Los usuarios consideraron seguros los métodos de pago
+  en la plataforma. Esto indica que cumple con la heurística de
+  seguridad al generar confianza en las transacciones financieras.
+
+- **Personalización y Retroalimentación:** Los usuarios sugirieron la
+  inclusión de reseñas de usuarios para enriquecer la experiencia del
+  usuario. Esto apunta a una posible mejora en la heurística de
+  personalización y retroalimentación, ya que la plataforma podría
+  brindar más información y opiniones personalizadas.
+
+**5.4. Video About-the-Product**
+
+En esta sección se incluye el video About-the-Product que muestra las
+funcionalidades más importantes de FastService:
+
+url:
+
+**Conclusiones:**
+
+- La representación detallada de las clases, atributos y métodos en el
+  diseño del sistema proporciona una base sólida para el desarrollo y la
+  implementación de la plataforma de intermediación entre técnicos y
+  clientes. Este enfoque orientado a objetos permite una comprensión
+  clara de la estructura del sistema y facilita la colaboración entre
+  los miembros del equipo de desarrollo.
+
+- Durante el Sprint 2, el equipo se centró en el desarrollo del frontend
+  del sitio web de FastService. Pudimos notar esto a través de las
+  múltiples confirmaciones de código relacionadas con la adición de
+  estilos, componentes de interfaz de usuario y funcionalidades
+  específicas, como la creación de una barra de navegación y una página
+  de inicio de sesión.
+
+- Se optó por utilizar herramientas y servicios externos que nos
+  ayudaron a simplificar el proceso de desarrollo y despliegue. En
+  particular, incorporamos TailwindCSS para la maquetación y los
+  estilos, y Firebase para el despliegue de la aplicación. Esta elección
+  de tecnologías y servicios externos demuestra nuestra búsqueda de
+  soluciones efectivas y eficientes para alcanzar nuestros objetivos.
+
+- Durante el Sprint 3, el equipo se enfocó en desarrollar el backend del
+  sitio web de FastService, realizando investigaciones y análisis de
+  documentación, en particular, incorporamos Microsoft Azure y MySQL
+  para el deploy de la base de datos y la conexión con la app, y
+  Firebase para el despliegue de la aplicación.. Además, se efectuaron
+  mejoras en el frontend para mejorar la experiencia del usuario.
+
+- El equipo ha trabajado en el desarrollo de la aplicación, con
+  contribuciones en el código de GitHub y el uso de herramientas como
+  Visual Studio, Web Storming, Rider e IntelliJ IDEA Ultimate. Se ha
+  seguido la metodología GitFlow para el control del flujo de trabajo y
+  la colaboración efectiva.
+
+- Las entrevistas de validación y las preguntas diseñadas sugieren que
+  el equipo está enfocado en la mejora continua y en la satisfacción del
+  usuario. Esto es una práctica positiva para el desarrollo ágil.
+
+- La implementación de los servicios de FastService en Azure, con
+  especial atención a la seguridad, la configuración de la base de datos
+  y la documentación del proceso de despliegue contribuye a una gestión
+  efectiva de los recursos tecnológicos y a la garantía de un entorno
+  seguro y funcional para el software.
 
 **Anexos:**
 
-- <a name="_i5ppb5zalug6"></a>Landing Page Mockup
+- Landing Page Mockup
 
-<https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0> 
+> [<u>https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0</u>](https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0)
 
-- <a name="_dnlj0p7roi2x"></a>Landing Page Wireframe
+- Landing Page Wireframe
 
-<https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0> 
+> [<u>https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0</u>](https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0)
 
-- <a name="_rmpaylamyld4"></a>Web Applications Prototype: <https://www.figma.com/proto/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=33-2934&t=p2laNPzz7ssN9o7P-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=33%3A2934&show-proto-sidebar=1&mode=design> 
-- <a name="_4q3qqv8cy9to"></a>Web Applications User Flow Diagrams: 
+- Web Applications Prototype:
+  [<u>https://www.figma.com/proto/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=33-2934&t=p2laNPzz7ssN9o7P-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=33%3A2934&show-proto-sidebar=1&mode=design</u>](https://www.figma.com/proto/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=33-2934&t=p2laNPzz7ssN9o7P-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=33%3A2934&show-proto-sidebar=1&mode=design)
 
-<a name="_nmcxnlivf72j"></a><https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0> 
+- Web Applications User Flow Diagrams:
 
-- <a name="_ku1dtyysw3gr"></a>Class diagram: [https://lucid.app/lucidchart/adf5546f-c70d-43bc-bb93-02ed74639ada/edit?invitationId=inv_6dd2fa91-a62c-447b-b9ee-2611d8fa846b&page=0_0#](https://lucid.app/lucidchart/adf5546f-c70d-43bc-bb93-02ed74639ada/edit?invitationId=inv_6dd2fa91-a62c-447b-b9ee-2611d8fa846b&page=0_0) 
-- <a name="_126wn8opljga"></a>Database diagram: <https://lucid.app/publicSegments/view/a6a2cfdd-ad30-475c-ab71-ea87971d7293/image.png> 
-- <a name="_u6erp0mcx45f"></a>Fastservices Organization: <https://github.com/AplicacionesWeb-GRUPO1> 
-- <a name="_jzjprzy896az"></a>Fastservices Landing Page Repository: <https://github.com/AplicacionesWeb-GRUPO1/LandingPage> 
-- <a name="_wed84gvtj65t"></a>Fastservices Landing Page deployed: <https://main--darling-stroopwafel-93011e.netlify.app> 
-- <a name="_ewgxbk5cvaz7"></a>Fastservices Acceptance Tests: <https://github.com/AplicacionesWeb-GRUPO1/features_FastService> 
-- <a name="_a79qpnmy8hli"></a>Link de Trello a Sprint Backlog y Sprint planing: <https://trello.com/b/WUhP9e2p/sprintbacklog>
-- <a name="_s8qvzxjqyukx"></a>Video about the product: <https://youtu.be/uLk-twOv8J8> 
-- <a name="_h52tuarmqvuw"></a>Exposiciones:
-  - <a name="_ltexd5nai4hn"></a>TB1: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120430_upc_edu_pe/EY5BKtPuKWdOomOFozHteOgBQ3mViF8Q1QEK4Oa_WQ0F7A?e=QX5ol4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19> 
-  - <a name="_4o0byyal4lnm"></a>TP: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120430_upc_edu_pe/EfpNfP2lW-lKhWAVaiXMH0kBALUHRd4jbW4XBDORrVLuIg?e=fvPSTr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19> 
-  - Frontend Web Applications : https://fastservice-e75c1.web.app/
-  - GitHub: https://github.com/AplicacionesWeb-GRUPO1/fastservice
-  
-<a name="_zgmihx1r5l1x"></a>**Bibliografía:**
+> <u>https://www.figma.com/file/PlzamGgF7k6foPSHTNFKsH/Untitled?type=design&node-id=0-1&mode=design&t=1X2RNTAGmyOXYpCe-0</u>
 
+- Class diagram:
+  [<u>https://lucid.app/lucidchart/adf5546f-c70d-43bc-bb93-02ed74639ada/edit?invitationId=inv_6dd2fa91-a62c-447b-b9ee-2611d8fa846b&page=0_0#</u>](https://lucid.app/lucidchart/adf5546f-c70d-43bc-bb93-02ed74639ada/edit?invitationId=inv_6dd2fa91-a62c-447b-b9ee-2611d8fa846b&page=0_0)
 
-- Compañía peruana de estudios de mercados y opinión pública (c.p.i) (2018). Tendencia de reparadores a domicilio. Recuperado de:<http://cpi.pe/images/upload/paginaweb/archivo/26/mr_mascotas_201808.pdf>  [Consulta: 01 de Setiembre del 2023]
-- Congreso de la República (2016). Presencia de técnicos en el hogar. Lima: Congreso de la República. Recuperado de <https://www.congreso.gob.pe/carpetatematica/2018/carpeta_249/estadisticas/>   
+- Database diagram:
+  [<u>https://lucid.app/publicSegments/view/a6a2cfdd-ad30-475c-ab71-ea87971d7293/image.png</u>](https://lucid.app/publicSegments/view/a6a2cfdd-ad30-475c-ab71-ea87971d7293/image.png)
 
-[Consulta: 03 de Setiembre del 2023]
+- Fastservices Organization:
+  [<u>https://github.com/AplicacionesWeb-GRUPO1</u>](https://github.com/AplicacionesWeb-GRUPO1)
+
+- Fastservices Landing Page Repository:
+  [<u>https://github.com/AplicacionesWeb-GRUPO1/LandingPage</u>](https://github.com/AplicacionesWeb-GRUPO1/LandingPage)
+
+- Fastservices Landing Page deployed:
+  [<u>https://main--darling-stroopwafel-93011e.netlify.app</u>](https://main--darling-stroopwafel-93011e.netlify.app)
+
+- Fastservices Acceptance Tests:
+  [<u>https://github.com/AplicacionesWeb-GRUPO1/features_FastService</u>](https://github.com/AplicacionesWeb-GRUPO1/features_FastService)
+
+- Link de Trello a Sprint Backlog y Sprint planing:
+  [<u>https://trello.com/b/WUhP9e2p/sprintbacklog</u>](https://trello.com/b/WUhP9e2p/sprintbacklog)
+
+- Frontend Web Applications :
+  [<u>https://fastservice-e75c1.web.app/</u>](https://fastservice-e75c1.web.app/)
+
+- Backend Api: https://fastserviceapi20231103222242.azurewebsites.net
+
+  - Para acceder a los endpoints:
+    [<u>https://fastserviceapi20231103222242.azurewebsites.net/api/v1/</u>](https://fastserviceapi20231103222242.azurewebsites.net/api/v1/)
+
+  - Ejemplo:
+    [<u>https://fastserviceapi20231103222242.azurewebsites.net/api/v1/experts</u>](https://fastserviceapi20231103222242.azurewebsites.net/api/v1/experts)
+
+- GitHub:
+  [<u>https://github.com/AplicacionesWeb-GRUPO1/fastservice</u>](https://github.com/AplicacionesWeb-GRUPO1/fastservice)
+
+- Video about the product:
+  [<u>https://youtu.be/uLk-twOv8J8</u>](https://youtu.be/uLk-twOv8J8)
+
+- Exposiciones:
+
+  - TB1:
+    [<u>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120430_upc_edu_pe/EY5BKtPuKWdOomOFozHteOgBQ3mViF8Q1QEK4Oa_WQ0F7A?e=QX5ol4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</u>](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120430_upc_edu_pe/EY5BKtPuKWdOomOFozHteOgBQ3mViF8Q1QEK4Oa_WQ0F7A?e=QX5ol4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+  - TP:
+    [<u>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120430_upc_edu_pe/EfpNfP2lW-lKhWAVaiXMH0kBALUHRd4jbW4XBDORrVLuIg?e=fvPSTr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19</u>](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120430_upc_edu_pe/EfpNfP2lW-lKhWAVaiXMH0kBALUHRd4jbW4XBDORrVLuIg?e=fvPSTr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+**Bibliografía:**
+
+- Compañía peruana de estudios de mercados y opinión pública (c.p.i)
+  (2018). Tendencia de reparadores a domicilio. Recuperado
+  de:[<u>http://cpi.pe/images/upload/paginaweb/archivo/26/mr_mascotas_201808.pdf</u>](http://cpi.pe/images/upload/paginaweb/archivo/26/mr_mascotas_201808.pdf)
+  \[Consulta: 01 de Setiembre del 2023\]
+
+- Congreso de la República (2016). Presencia de técnicos en el hogar.
+  Lima: Congreso de la República. Recuperado de
+  [<u>https://www.congreso.gob.pe/carpetatematica/2018/carpeta_249/estadisticas/</u>](https://www.congreso.gob.pe/carpetatematica/2018/carpeta_249/estadisticas/)
+
+> \[Consulta: 03 de Setiembre del 2023\]
+
